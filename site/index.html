@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<!-- 検索エンジン非インデックス -->
+<meta name="robots" content="noindex,nofollow" />
+<meta name="googlebot" content="noindex,nofollow" />
+<title>Claude Updates JP — Anthropic / Claude 公式情報まとめ(非公式)</title>
+<meta name="description" content="Anthropic / Claude の公式情報を自動収集して日本語タイトル付きで一覧する非公式アグリゲーターです。" />
+<link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <h1>
+      <span class="logo-mark">▎</span>
+      Claude Updates <span class="accent">JP</span>
+    </h1>
+    <p class="lead">Anthropic と Claude の公式情報を自動で集めて日本語タイトル付きでお届け</p>
+    <p class="disclaimer">
+      ※ 本サイトは Anthropic とは無関係の非公式アグリゲーターです。
+      日本語訳は機械翻訳のため誤訳を含む可能性があります。必ず公式記事をご確認ください。
+    </p>
+    <div class="meta-row">
+      <span id="updated-at" class="badge ghost">読み込み中…</span>
+      <span id="item-count" class="badge ghost"></span>
+    </div>
+  </div>
+</header>
+
+<nav class="toolbar">
+  <div class="wrap toolbar-inner">
+    <div class="filters" id="filters">
+      <button class="chip active" data-filter="all">すべて</button>
+      <!-- カテゴリチップは JS で生成 -->
+    </div>
+    <div class="search-box">
+      <input
+        type="search"
+        id="search"
+        placeholder="タイトルを検索 (日本語/英語)"
+        autocomplete="off"
+        aria-label="記事タイトル検索"
+      />
+    </div>
+  </div>
+</nav>
+
+<main class="wrap">
+  <ul id="feed" class="feed"></ul>
+  <p id="empty" class="empty" hidden>該当する記事がありません。</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <h2 class="foot-h">情報源と権利について</h2>
+    <p>
+      本サイトは <a href="https://www.anthropic.com/news" target="_blank" rel="noopener">Anthropic 公式ニュース</a> / 
+      <a href="https://www.anthropic.com/engineering" target="_blank" rel="noopener">Engineering</a> /
+      <a href="https://www.anthropic.com/research" target="_blank" rel="noopener">Research</a> /
+      <a href="https://www.claude.com/blog" target="_blank" rel="noopener">Claude Blog</a> /
+      <a href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md" target="_blank" rel="noopener">Claude Code Changelog</a>
+      の RSS から、タイトルとリンクを取得して日本語タイトルを併記しているだけのアグリゲーターです。
+      記事の本文は表示していません。詳細は必ず各公式記事をご覧ください。
+    </p>
+    <p>
+      著作権はそれぞれの発行元に帰属します。
+      RSS の取得は <a href="https://github.com/Olshansk/rss-feeds" target="_blank" rel="noopener">Olshansk/rss-feeds</a> 経由、
+      タイトルの日本語訳は <a href="https://www.deepl.com/" target="_blank" rel="noopener">DeepL</a> を使用しています。
+    </p>
+    <p>
+      <strong>掲載停止のご依頼</strong>:
+      権利者の方で本サイトでの掲載を停止したい場合は、
+      GitHub リポジトリの Issues またはサイト運営者へご連絡ください。速やかに対応します。
+    </p>
+  </div>
+</footer>
+
+<script src="./app.js"></script>
+</body>
+</html>
