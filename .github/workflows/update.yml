@@ -35,7 +35,7 @@ jobs:
 
       - name: Translate new entries
         env:
-          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
         run: python scripts/translate.py
 
       - name: Copy data.json into site/

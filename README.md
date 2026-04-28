@@ -20,7 +20,7 @@ Anthropic / Claude の公式情報を自動で集めて日本語タイトル付�
 
 - **ホスティング**: GitHub Pages (無料)
 - **定期実行**: GitHub Actions (6時間ごと)
-- **翻訳**: DeepL API Free (月50万文字無料、タイトルだけなので余裕)
+- **翻訳**: MyMemory API (完全無料、APIキー不要、メアド登録で1日10万文字)
 - **新規分のみ翻訳**: 既存翻訳結果を再利用
 
 ```
@@ -55,10 +55,8 @@ RSS は [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) のスクレ
 
 1. このリポジトリを GitHub に置く
 2. **Settings → Pages** で Source を「GitHub Actions」に設定
-3. DeepL API Free のキーを取得 (https://www.deepl.com/pro-api)
-   - 念のため DeepL の管理画面で月額上限を 0 円に設定しておくと完全無料保証
-4. **Settings → Secrets and variables → Actions** で `DEEPL_API_KEY` を登録
-5. **Actions** タブから `Update feed and deploy` を手動実行(初回データ生成)
+3. (任意) MyMemory の利用上限を倍にしたい場合、**Settings → Secrets and variables → Actions** で `MYMEMORY_EMAIL` にメアドを登録(登録しなくても動きます)
+4. **Actions** タブから `Update feed and deploy` を手動実行(初回データ生成)
 
 以降は自動で 6 時間ごとに更新されます。
 
@@ -67,7 +65,7 @@ RSS は [Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) のスクレ
 ```bash
 pip install feedparser requests
 python scripts/fetch.py
-DEEPL_API_KEY=xxx python scripts/translate.py    # キー無しでもダミー訳で動く
+python scripts/translate.py    # MYMEMORY_EMAILが無くても動く
 cp data/data.json site/data.json
 python -m http.server -d site 8000
 # → http://localhost:8000
