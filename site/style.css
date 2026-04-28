@@ -220,7 +220,9 @@ a:hover { text-decoration: underline; }
 .cta-row {
   display: flex;
   justify-content: flex-end;
+  gap: 8px;
   margin-top: 6px;
+  flex-wrap: wrap;
 }
 .cta {
   display: inline-flex;
@@ -228,15 +230,29 @@ a:hover { text-decoration: underline; }
   gap: 4px;
   font-size: 13px;
   font-weight: 600;
-  color: var(--accent);
   padding: 6px 14px;
-  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
   border-radius: 999px;
-  transition: background .15s ease, color .15s ease;
+  transition: background .15s ease, color .15s ease, border-color .15s ease;
 }
-.cta:hover {
+/* メインボタン: 日本語で読む(色付き、目立つ) */
+.cta-translate {
+  color: var(--accent);
+  border: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+}
+.cta-translate:hover {
   background: var(--accent);
   color: #fff;
+  text-decoration: none;
+}
+/* サブボタン: 原文(控えめ) */
+.cta-original {
+  color: var(--fg-soft);
+  border: 1px solid var(--line);
+}
+.cta-original:hover {
+  background: var(--fg);
+  color: var(--bg);
+  border-color: var(--fg);
   text-decoration: none;
 }
 .cta::after { content: " ↗"; font-size: 11px; }

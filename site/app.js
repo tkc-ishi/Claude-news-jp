@@ -30,6 +30,26 @@ function escapeHtml(s) {
     .replace(/'/g, "&#39;");
 }
 
+// Google翻訳経由のURLを生成
+// https://www.anthropic.com/news/xxx
+//   → https://www-anthropic-com.translate.goog/news/xxx?_x_tr_sl=en&_x_tr_tl=ja
+function buildTranslateUrl(url) {
+  try {
+    const u = new URL(url);
+    // ホスト名のドット(.)とハイフン(-)を変換
+    // 例: www.anthropic.com → www-anthropic-com
+    //     api-docs.example.com → api--docs-example-com (- は -- にエスケープ)
+    const host = u.hostname.replace(/-/g, "--").replace(/\./g, "-");
+    const params = new URLSearchParams(u.search);
+    params.set("_x_tr_sl", "en");
+    params.set("_x_tr_tl", "ja");
+    params.set("_x_tr_hl", "ja");
+    return `https://${host}.translate.goog${u.pathname}?${params.toString()}${u.hash}`;
+  } catch (e) {
+    return url;
+  }
+}
+
 // 検索クエリでハイライト (大文字小文字無視・日本語OK)
 function highlight(text, query) {
   const safe = escapeHtml(text);
@@ -81,8 +101,11 @@ function render() {
       <h2 class="title-ja">${highlight(it.title_ja || it.title_en, state.query)}</h2>
       <p class="title-en">${highlight(it.title_en, state.query)}</p>
       <div class="cta-row">
-        <a class="cta" href="${escapeHtml(it.link)}" target="_blank" rel="noopener">
-          公式記事を読む
+        <a class="cta cta-translate" href="${escapeHtml(buildTranslateUrl(it.link))}" target="_blank" rel="noopener">
+          日本語で読む
+        </a>
+        <a class="cta cta-original" href="${escapeHtml(it.link)}" target="_blank" rel="noopener">
+          公式記事(原文)
         </a>
       </div>
     `;
