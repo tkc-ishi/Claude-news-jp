@@ -10,7 +10,7 @@
       "title_ja": "当社のパートナーがサイバーセキュリティのためにOpusをどのように活用しているか",
       "link": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
       "published": "2026-05-21T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888537+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297792+00:00",
       "translated": true
     },
     {
@@ -23,7 +23,7 @@
       "title_ja": "Claudeは現在、より多くのセキュリティおよびコンプライアンスツールと連携しています",
       "link": "https://claude.com/blog/compliance-api-security-partners",
       "published": "2026-05-21T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888548+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297805+00:00",
       "translated": true
     },
     {
@@ -36,7 +36,7 @@
       "title_ja": "クロードコードの使用： HTMLの不合理な効果",
       "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
       "published": "2026-05-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888563+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297820+00:00",
       "translated": true
     },
     {
@@ -49,7 +49,7 @@
       "title_ja": "AnthropicのセールスリーダーがClaude Coworkを使用して4,000アカウントの帳簿を管理する方法",
       "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
       "published": "2026-05-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888556+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297813+00:00",
       "translated": true
     },
     {
@@ -62,7 +62,7 @@
       "title_ja": "KPMGは、戦略的提携で276,000人以上のコアビジネスと従業員全体でClaudeを統合します",
       "link": "https://www.anthropic.com/news/anthropic-kpmg",
       "published": "2026-05-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601658+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895534+00:00",
       "translated": true
     },
     {
@@ -75,7 +75,7 @@
       "title_ja": "Claudeマネージドエージェントの新機能：セルフホストサンドボックスとMCPトンネル",
       "link": "https://claude.com/blog/claude-managed-agents-updates",
       "published": "2026-05-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888569+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297830+00:00",
       "translated": true
     },
     {
@@ -88,7 +88,7 @@
       "title_ja": "フロンティアAIに関する会話を広げる",
       "link": "https://www.anthropic.com/news/widening-conversation-ai",
       "published": "2026-05-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601674+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895547+00:00",
       "translated": true
     },
     {
@@ -101,7 +101,7 @@
       "title_ja": "Anthropicがステンレスを買収",
       "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "published": "2026-05-18T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601683+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895555+00:00",
       "translated": true
     },
     {
@@ -114,7 +114,7 @@
       "title_ja": "法律業界全体にClaudeを展開する",
       "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
       "published": "2026-05-15T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888580+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297838+00:00",
       "translated": true
     },
     {
@@ -127,7 +127,7 @@
       "title_ja": "Anthropicはゲイツ財団と2億$のパートナーシップを結ぶ",
       "link": "https://www.anthropic.com/news/gates-foundation-partnership",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601689+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895563+00:00",
       "translated": true
     },
     {
@@ -140,7 +140,7 @@
       "title_ja": "2026年5月14日Policy 2028 ：グローバルAIリーダーシップの2つのシナリオ",
       "link": "https://www.anthropic.com/research/2028-ai-leadership",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795550+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115636+00:00",
       "translated": true
     },
     {
@@ -153,7 +153,7 @@
       "title_ja": "クロードコードが大規模なコードベースでどのように機能するか：ベストプラクティスと出発点",
       "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888587+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297848+00:00",
       "translated": true
     },
     {
@@ -166,7 +166,7 @@
       "title_ja": "創業者の作戦帳： AIネイティブのスタートアップを構築する",
       "link": "https://claude.com/blog/the-founders-playbook",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888594+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297854+00:00",
       "translated": true
     },
     {
@@ -179,7 +179,7 @@
       "title_ja": "中小企業向けClaudeのご紹介",
       "link": "https://www.anthropic.com/news/claude-for-small-business",
       "published": "2026-05-13T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601705+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895577+00:00",
       "translated": true
     },
     {
@@ -192,7 +192,7 @@
       "title_ja": "Claudeによるコンピューターとブラウザーの使用に関するベストプラクティス",
       "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
       "published": "2026-05-13T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888600+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297861+00:00",
       "translated": true
     },
     {
@@ -205,7 +205,7 @@
       "title_ja": "AnthropicのサイバーセキュリティチームがClaude Codeを使用して脅威検出プラットフォームを構築した方法",
       "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
       "published": "2026-05-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888607+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297867+00:00",
       "translated": true
     },
     {
@@ -218,7 +218,7 @@
       "title_ja": "法律業界のためのクロード",
       "link": "https://claude.com/blog/claude-for-the-legal-industry",
       "published": "2026-05-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888613+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297873+00:00",
       "translated": true
     },
     {
@@ -231,7 +231,7 @@
       "title_ja": "クロードSF 2026のコード： AIの指数関数的な構築",
       "link": "https://claude.com/blog/code-w-claude-sf-2026-sf",
       "published": "2026-05-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888619+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297879+00:00",
       "translated": true
     },
     {
@@ -244,7 +244,7 @@
       "title_ja": "AWSのClaudeプラットフォームのご紹介",
       "link": "https://claude.com/blog/claude-platform-on-aws",
       "published": "2026-05-11T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888625+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297885+00:00",
       "translated": true
     },
     {
@@ -257,7 +257,7 @@
       "title_ja": "クロードコードのエージェントビュー",
       "link": "https://claude.com/blog/agent-view-in-claude-code",
       "published": "2026-05-11T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888631+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297891+00:00",
       "translated": true
     },
     {
@@ -270,7 +270,7 @@
       "title_ja": "2026年5月8日AlignmentTeaching Claude why",
       "link": "https://www.anthropic.com/research/teaching-claude-why",
       "published": "2026-05-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795561+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115648+00:00",
       "translated": true
     },
     {
@@ -283,7 +283,7 @@
       "title_ja": "2026年5月7日人類研究所の政策重点分野",
       "link": "https://www.anthropic.com/research/anthropic-institute-agenda",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795569+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115656+00:00",
       "translated": true
     },
     {
@@ -296,7 +296,7 @@
       "title_ja": "自然言語オートエンコーダー：クロードの考えをテキストに変える",
       "link": "https://www.anthropic.com/research/natural-language-autoencoders",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795582+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115670+00:00",
       "translated": true
     },
     {
@@ -309,7 +309,7 @@
       "title_ja": "Excel、PowerPoint、Word、OutlookにわたるClaudeとのコラボレーション",
       "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888637+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297898+00:00",
       "translated": true
     },
     {
@@ -322,7 +322,7 @@
       "title_ja": "2026年5月7日連携オープンソース連携ツールの寄付",
       "link": "https://www.anthropic.com/research/donating-open-source-petri",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795575+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115663+00:00",
       "translated": true
     },
     {
@@ -335,7 +335,7 @@
       "title_ja": "クロードのより高い使用制限とSpaceXとのコンピューティング契約",
       "link": "https://www.anthropic.com/news/higher-limits-spacex",
       "published": "2026-05-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601712+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895583+00:00",
       "translated": true
     },
     {
@@ -348,7 +348,7 @@
       "title_ja": "Claudeマネージドエージェントの新機能：夢、結果、マルチエージェントオーケストレーション",
       "link": "https://claude.com/blog/new-in-claude-managed-agents",
       "published": "2026-05-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888646+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297905+00:00",
       "translated": true
     },
     {
@@ -361,7 +361,7 @@
       "title_ja": "金融サービスのエージェント",
       "link": "https://www.anthropic.com/news/finance-agents",
       "published": "2026-05-05T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601719+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895590+00:00",
       "translated": true
     },
     {
@@ -374,7 +374,7 @@
       "title_ja": "金融サービス全体にClaudeを展開する",
       "link": "https://claude.com/blog/deploying-claude-across-financial-services",
       "published": "2026-05-05T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888652+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297913+00:00",
       "translated": true
     },
     {
@@ -387,7 +387,7 @@
       "title_ja": "ブラックストーン、ヘルマン＆フリードマン、ゴールドマン・サックスと共に新しいエンタープライズAIサービス会社を構築",
       "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
       "published": "2026-05-04T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601726+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895597+00:00",
       "translated": true
     },
     {
@@ -400,7 +400,7 @@
       "title_ja": "技術者以外のプロジェクトマネージャーがClaude Codeを使用してストレスマネジメントアプリを6週間で構築して出荷した方法",
       "link": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
       "published": "2026-05-01T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888658+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297920+00:00",
       "translated": true
     },
     {
@@ -413,7 +413,7 @@
       "title_ja": "2026年4月30日社会的影響クロードに個人的な指導を求める方法",
       "link": "https://www.anthropic.com/research/claude-personal-guidance",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795588+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115676+00:00",
       "translated": true
     },
     {
@@ -426,7 +426,7 @@
       "title_ja": "クロードと一緒に金融サービス用の検証可能なAIをケプラーがどのように構築したか",
       "link": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888664+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297927+00:00",
       "translated": true
     },
     {
@@ -439,7 +439,7 @@
       "title_ja": "クロードコードの構築からの教訓：迅速なキャッシュがすべて",
       "link": "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888671+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297933+00:00",
       "translated": true
     },
     {
@@ -452,7 +452,7 @@
       "title_ja": "Claude Securityが公開ベータ版になりました",
       "link": "https://claude.com/blog/claude-security-public-beta",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888677+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297939+00:00",
       "translated": true
     },
     {
@@ -465,7 +465,7 @@
       "title_ja": "企業向けのAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-for-the-enterprise",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888683+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297946+00:00",
       "translated": true
     },
     {
@@ -478,7 +478,7 @@
       "title_ja": "エージェント時代の製品開発",
       "link": "https://claude.com/blog/product-development-in-the-agentic-era",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888689+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297952+00:00",
       "translated": true
     },
     {
@@ -491,7 +491,7 @@
       "title_ja": "CodeRabbit、JetBrains、Resolve AI、WarpにClaude APIスキルを追加",
       "link": "https://claude.com/blog/claude-api-skill",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888695+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297958+00:00",
       "translated": true
     },
     {
@@ -504,7 +504,7 @@
       "title_ja": "Claude Coworkと一緒に企業全体にClaudeを展開する",
       "link": "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888701+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297964+00:00",
       "translated": true
     },
     {
@@ -517,7 +517,7 @@
       "title_ja": "2026年4月29日BioMysteryBenchによるClaudeのバイオインフォマティクス研究能力の評価",
       "link": "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795594+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115682+00:00",
       "translated": true
     },
     {
@@ -530,7 +530,7 @@
       "title_ja": "クリエイティブワークのためのクロード",
       "link": "https://www.anthropic.com/news/claude-for-creative-work",
       "published": "2026-04-28T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601737+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895603+00:00",
       "translated": true
     },
     {
@@ -543,7 +543,7 @@
       "title_ja": "新しい開発者のようなClaude Codeのオンボーディング： 17年間の開発からの教訓",
       "link": "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
       "published": "2026-04-28T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888709+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297971+00:00",
       "translated": true
     },
     {
@@ -595,7 +595,7 @@
       "title_ja": "最近のClaude Code品質レポートに関する最新情報",
       "link": "https://www.anthropic.com/engineering/april-23-postmortem",
       "published": "2026-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756591+00:00",
+      "fetched_at": "2026-05-22T08:50:00.939993+00:00",
       "translated": true
     },
     {
@@ -608,7 +608,7 @@
       "title_ja": "Claudeマネージドエージェント用の内蔵メモリ",
       "link": "https://claude.com/blog/claude-managed-agents-memory",
       "published": "2026-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888716+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297979+00:00",
       "translated": true
     },
     {
@@ -621,7 +621,7 @@
       "title_ja": "日常生活のためのClaudeの新しいコネクタ",
       "link": "https://claude.com/blog/connectors-for-everyday-life",
       "published": "2026-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888722+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297986+00:00",
       "translated": true
     },
     {
@@ -634,7 +634,7 @@
       "title_ja": "2026年4月22日経済調査81,000人がAIの経済性について語ってくれたこと",
       "link": "https://www.anthropic.com/research/81k-economics",
       "published": "2026-04-22T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795601+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115689+00:00",
       "translated": true
     },
     {
@@ -647,7 +647,7 @@
       "title_ja": "2026年4月22日経済調査Anthropic Economic Index Surveyの発表",
       "link": "https://www.anthropic.com/research/economic-index-survey-announcement",
       "published": "2026-04-22T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795607+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115695+00:00",
       "translated": true
     },
     {
@@ -660,7 +660,7 @@
       "title_ja": "MCPで生産システムに到達するビルディングエージェント",
       "link": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
       "published": "2026-04-22T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888728+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297992+00:00",
       "translated": true
     },
     {
@@ -686,7 +686,7 @@
       "title_ja": "「Built with Opus 4.6 Claude Code」ハッカソンの受賞者をご紹介します",
       "link": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon",
       "published": "2026-04-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888734+00:00",
+      "fetched_at": "2026-05-22T08:50:01.297999+00:00",
       "translated": true
     },
     {
@@ -699,7 +699,7 @@
       "title_ja": "[注意]このフィードはメンテナンスされなくなりました",
       "link": "https://code.claude.com/docs/en/changelog/rss.xml",
       "published": "2026-04-18T14:24:42+00:00",
-      "fetched_at": "2026-05-22T02:32:39.099884+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559898+00:00",
       "translated": true
     },
     {
@@ -712,7 +712,7 @@
       "title_ja": "Anthropic Labsによるクロードデザインのご紹介",
       "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "published": "2026-04-17T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601773+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895609+00:00",
       "translated": true
     },
     {
@@ -725,7 +725,7 @@
       "title_ja": "クロード・オーパス4.7の登場",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
       "published": "2026-04-16T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601779+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895616+00:00",
       "translated": true
     },
     {
@@ -738,7 +738,7 @@
       "title_ja": "Claude CodeでClaude Opus 4.7を使用するためのベストプラクティス",
       "link": "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code",
       "published": "2026-04-16T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888740+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298007+00:00",
       "translated": true
     },
     {
@@ -751,7 +751,7 @@
       "title_ja": "クロードコードの使用：セッション管理と1 Mコンテキスト",
       "link": "https://claude.com/blog/using-claude-code-session-management-and-1m-context",
       "published": "2026-04-15T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888746+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298014+00:00",
       "translated": true
     },
     {
@@ -777,7 +777,7 @@
       "title_ja": "2026年4月14日連携自動連携研究者：大規模な言語モデルを使用してスケーラブルな監視を拡大する",
       "link": "https://www.anthropic.com/research/automated-alignment-researchers",
       "published": "2026-04-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795615+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115701+00:00",
       "translated": true
     },
     {
@@ -790,7 +790,7 @@
       "title_ja": "クロードコードのルーチンのご紹介",
       "link": "https://claude.com/blog/introducing-routines-in-claude-code",
       "published": "2026-04-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888752+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298020+00:00",
       "translated": true
     },
     {
@@ -803,7 +803,7 @@
       "title_ja": "並列エージェントのためのデスクトップでのクロードコードの再設計",
       "link": "https://claude.com/blog/claude-code-desktop-redesign",
       "published": "2026-04-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888758+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298027+00:00",
       "translated": true
     },
     {
@@ -816,7 +816,7 @@
       "title_ja": "マルチエージェントコーディネーションパターン： 5つのアプローチとそれらを使用するタイミング",
       "link": "https://claude.com/blog/multi-agent-coordination-patterns",
       "published": "2026-04-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888764+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298033+00:00",
       "translated": true
     },
     {
@@ -829,7 +829,7 @@
       "title_ja": "エージェントのように見える： Claude Codeでツールを設計する方法",
       "link": "https://claude.com/blog/seeing-like-an-agent",
       "published": "2026-04-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888772+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298039+00:00",
       "translated": true
     },
     {
@@ -842,7 +842,7 @@
       "title_ja": "AIアクセラレーテッド攻撃に対するセキュリティプログラムの準備",
       "link": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
       "published": "2026-04-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888778+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298048+00:00",
       "translated": true
     },
     {
@@ -868,7 +868,7 @@
       "title_ja": "Claude Coworkをエンタープライズに対応させる",
       "link": "https://claude.com/blog/cowork-for-enterprise",
       "published": "2026-04-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888785+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298054+00:00",
       "translated": true
     },
     {
@@ -881,7 +881,7 @@
       "title_ja": "アドバイザー戦略：エージェントのインテリジェンスを高める",
       "link": "https://claude.com/blog/the-advisor-strategy",
       "published": "2026-04-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888791+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298060+00:00",
       "translated": true
     },
     {
@@ -894,7 +894,7 @@
       "title_ja": "マネージドエージェントのスケーリング：手から脳を切り離す",
       "link": "https://www.anthropic.com/engineering/managed-agents",
       "published": "2026-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756603+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940004+00:00",
       "translated": true
     },
     {
@@ -907,7 +907,7 @@
       "title_ja": "CARTA HealthcareがAIを臨床アブストラクトのように推論させる方法",
       "link": "https://claude.com/blog/carta-healthcare-clinical-abstractor",
       "published": "2026-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888797+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298067+00:00",
       "translated": true
     },
     {
@@ -920,7 +920,7 @@
       "title_ja": "Claudeマネージドエージェント：本番稼働までの時間を10倍に短縮",
       "link": "https://claude.com/blog/claude-managed-agents",
       "published": "2026-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888803+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298073+00:00",
       "translated": true
     },
     {
@@ -933,7 +933,7 @@
       "title_ja": "Claude Codeでサブエージェントを使用する方法とタイミング",
       "link": "https://claude.com/blog/subagents-in-claude-code",
       "published": "2026-04-07T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888809+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298080+00:00",
       "translated": true
     },
     {
@@ -972,7 +972,7 @@
       "title_ja": "クロードの知性の活用",
       "link": "https://claude.com/blog/harnessing-claudes-intelligence",
       "published": "2026-04-02T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888815+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298086+00:00",
       "translated": true
     },
     {
@@ -1011,7 +1011,7 @@
       "title_ja": "コンプライアンスAPIを使用してClaudeプラットフォームのアクティビティを監査する",
       "link": "https://claude.com/blog/claude-platform-compliance-api",
       "published": "2026-03-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888821+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298092+00:00",
       "translated": true
     },
     {
@@ -1024,7 +1024,7 @@
       "title_ja": "Claude Code自動モード：権限をスキップするより安全な方法",
       "link": "https://www.anthropic.com/engineering/claude-code-auto-mode",
       "published": "2026-03-25T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756611+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940011+00:00",
       "translated": true
     },
     {
@@ -1037,7 +1037,7 @@
       "title_ja": "長期的なアプリケーション開発のためのハーネス設計",
       "link": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
       "published": "2026-03-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756618+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940018+00:00",
       "translated": true
     },
     {
@@ -1063,7 +1063,7 @@
       "title_ja": "クロードコードの自動モード",
       "link": "https://claude.com/blog/auto-mode",
       "published": "2026-03-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888827+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298098+00:00",
       "translated": true
     },
     {
@@ -1115,7 +1115,7 @@
       "title_ja": "クロードをあなたのコンピューターで働かせる",
       "link": "https://claude.com/blog/dispatch-and-computer-use",
       "published": "2026-03-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888835+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298104+00:00",
       "translated": true
     },
     {
@@ -1128,7 +1128,7 @@
       "title_ja": "AI指数関数的な製品管理",
       "link": "https://claude.com/blog/product-management-on-the-ai-exponential",
       "published": "2026-03-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888841+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298112+00:00",
       "translated": true
     },
     {
@@ -1141,7 +1141,7 @@
       "title_ja": "Claudeと一緒にサンフランシスコ、ロンドン、東京でコードを学ぼう",
       "link": "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo",
       "published": "2026-03-18T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888847+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298119+00:00",
       "translated": true
     },
     {
@@ -1154,7 +1154,7 @@
       "title_ja": "1 MコンテキストがOpus 4.6とSonnet 4.6で一般的に利用可能になりました",
       "link": "https://claude.com/blog/1m-context-ga",
       "published": "2026-03-13T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888853+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298125+00:00",
       "translated": true
     },
     {
@@ -1180,7 +1180,7 @@
       "title_ja": "クロードは現在、インタラクティブなチャート、ダイアグラム、視覚化を作成しています",
       "link": "https://claude.com/blog/claude-builds-visuals",
       "published": "2026-03-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888859+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298131+00:00",
       "translated": true
     },
     {
@@ -1206,7 +1206,7 @@
       "title_ja": "ExcelとPowerPoint用のClaudeの進化",
       "link": "https://claude.com/blog/claude-excel-powerpoint-updates",
       "published": "2026-03-11T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888865+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298137+00:00",
       "translated": true
     },
     {
@@ -1232,7 +1232,7 @@
       "title_ja": "Claude Codeへのコードレビューの導入",
       "link": "https://claude.com/blog/code-review",
       "published": "2026-03-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888871+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298143+00:00",
       "translated": true
     },
     {
@@ -1258,7 +1258,7 @@
       "title_ja": "Claude Opus 4.6のBrowseCompパフォーマンスにおける評価意識",
       "link": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
       "published": "2026-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756625+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940025+00:00",
       "translated": true
     },
     {
@@ -1284,7 +1284,7 @@
       "title_ja": "AIエージェントの一般的なワークフローパターンとその使用時期",
       "link": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
       "published": "2026-03-05T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888877+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298150+00:00",
       "translated": true
     },
     {
@@ -1297,7 +1297,7 @@
       "title_ja": "スキル作成者の向上：エージェントスキルのテスト、測定、洗練",
       "link": "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills",
       "published": "2026-03-03T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888883+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298156+00:00",
       "translated": true
     },
     {
@@ -1362,7 +1362,7 @@
       "title_ja": "企業全体のチーム向けのコワーキングスペースとプラグイン",
       "link": "https://claude.com/blog/cowork-plugins-across-enterprise",
       "published": "2026-02-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888889+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298163+00:00",
       "translated": true
     },
     {
@@ -1375,7 +1375,7 @@
       "title_ja": "コワーキングスペースとファイナンス用プラグイン",
       "link": "https://claude.com/blog/cowork-plugins-finance",
       "published": "2026-02-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888897+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298175+00:00",
       "translated": true
     },
     {
@@ -1401,7 +1401,7 @@
       "title_ja": "AIがCOBOLモダナイゼーションのコスト障壁を打ち破るのにどのように役立つか",
       "link": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
       "published": "2026-02-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888903+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298183+00:00",
       "translated": true
     },
     {
@@ -1427,7 +1427,7 @@
       "title_ja": "デスクトップのClaude Codeへの自動プレビュー、レビュー、マージの導入",
       "link": "https://claude.com/blog/preview-review-and-merge-with-claude-code",
       "published": "2026-02-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888909+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298189+00:00",
       "translated": true
     },
     {
@@ -1479,7 +1479,7 @@
       "title_ja": "動的フィルタリングでウェブ検索の精度と効率を向上",
       "link": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
       "published": "2026-02-17T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888915+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298195+00:00",
       "translated": true
     },
     {
@@ -1557,7 +1557,7 @@
       "title_ja": "Claude Enterprise、セルフサービスが利用可能になりました",
       "link": "https://claude.com/blog/self-serve-enterprise",
       "published": "2026-02-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888921+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298201+00:00",
       "translated": true
     },
     {
@@ -1583,7 +1583,7 @@
       "title_ja": "モデルの発売の背後：顧客がClaude Opus 4.6のテストを早期に発見したこと",
       "link": "https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early",
       "published": "2026-02-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888928+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298207+00:00",
       "translated": true
     },
     {
@@ -1609,7 +1609,7 @@
       "title_ja": "並行したClaudesチームと一緒にCコンパイラを構築する",
       "link": "https://www.anthropic.com/engineering/building-c-compiler",
       "published": "2026-02-05T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756636+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940032+00:00",
       "translated": true
     },
     {
@@ -1622,7 +1622,7 @@
       "title_ja": "エージェントコーディングエヴァルにおけるインフラストラクチャーノイズの定量化",
       "link": "https://www.anthropic.com/engineering/infrastructure-noise",
       "published": "2026-02-05T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756642+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940038+00:00",
       "translated": true
     },
     {
@@ -1635,7 +1635,7 @@
       "title_ja": "Claude Opusによるファイナンスの推進4.6",
       "link": "https://claude.com/blog/opus-4-6-finance",
       "published": "2026-02-05T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888934+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298214+00:00",
       "translated": true
     },
     {
@@ -1648,7 +1648,7 @@
       "title_ja": "クロードは考える空間です",
       "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
       "published": "2026-02-04T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601957+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895622+00:00",
       "translated": true
     },
     {
@@ -1687,7 +1687,7 @@
       "title_ja": "プラグインでコワーキングスペースをカスタマイズする",
       "link": "https://claude.com/blog/cowork-plugins",
       "published": "2026-01-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888940+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298220+00:00",
       "translated": true
     },
     {
@@ -1700,7 +1700,7 @@
       "title_ja": "貢献指標によるClaude Codeの影響を理解する",
       "link": "https://claude.com/blog/contribution-metrics",
       "published": "2026-01-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888946+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298227+00:00",
       "translated": true
     },
     {
@@ -1713,7 +1713,7 @@
       "title_ja": "クロードのためのスキル構築の完全ガイド",
       "link": "https://claude.com/blog/complete-guide-to-building-skills-for-claude",
       "published": "2026-01-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888952+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298233+00:00",
       "translated": true
     },
     {
@@ -1739,7 +1739,7 @@
       "title_ja": "Claudeチームへのアップデート",
       "link": "https://claude.com/blog/claude-team-updates",
       "published": "2026-01-28T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888960+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298239+00:00",
       "translated": true
     },
     {
@@ -1752,7 +1752,7 @@
       "title_ja": "大手小売業者がAIパイロットを企業全体の変革に変える方法",
       "link": "https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation",
       "published": "2026-01-28T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888966+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298248+00:00",
       "translated": true
     },
     {
@@ -1778,7 +1778,7 @@
       "title_ja": "Anthropicの成長マーケティングチームがClaude Codeを使用して広告作成時間を30分から30秒に短縮した方法",
       "link": "https://claude.com/blog/how-anthropic-uses-claude-marketing",
       "published": "2026-01-26T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888972+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298254+00:00",
       "translated": true
     },
     {
@@ -1791,7 +1791,7 @@
       "title_ja": "お気に入りの作業ツールは、Claude内のインタラクティブコネクタになりました",
       "link": "https://claude.com/blog/interactive-tools-in-claude",
       "published": "2026-01-26T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888978+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298261+00:00",
       "translated": true
     },
     {
@@ -1804,7 +1804,7 @@
       "title_ja": "マルチエージェントシステムの構築：いつ、どのように使用するか",
       "link": "https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them",
       "published": "2026-01-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888984+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298267+00:00",
       "translated": true
     },
     {
@@ -1830,7 +1830,7 @@
       "title_ja": "スキルを備えたエージェントの構築：専門的な作業のためのエージェントの装備",
       "link": "https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work",
       "published": "2026-01-22T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888990+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298273+00:00",
       "translated": true
     },
     {
@@ -1869,7 +1869,7 @@
       "title_ja": "AI耐性技術評価の設計",
       "link": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
       "published": "2026-01-21T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756649+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940044+00:00",
       "translated": true
     },
     {
@@ -1882,7 +1882,7 @@
       "title_ja": "2026年にソフトウェアがどのように構築されるかを定義する8つのトレンド",
       "link": "https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026",
       "published": "2026-01-21T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.888996+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298279+00:00",
       "translated": true
     },
     {
@@ -1947,7 +1947,7 @@
       "title_ja": "AIエージェントのためのエヴァルの謎を解く",
       "link": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
       "published": "2026-01-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756656+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940050+00:00",
       "translated": true
     },
     {
@@ -1973,7 +1973,7 @@
       "title_ja": "スキルとMCPサーバーでクロードの能力を拡張",
       "link": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
       "published": "2025-12-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889002+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298287+00:00",
       "translated": true
     },
     {
@@ -2012,7 +2012,7 @@
       "title_ja": "PolicyDec 18, 2025 Project Vend: Phase two 6月に、サンフランシスコのオフィスのランチルームに、AIの店主が運営する小さな店舗を設立したことを明らかにしました。これは、複雑で現実世界のタスクでAIがどれだけうまく機能できるかを探求する自由形式の実験であるProject Vendの一部でした。私たちが前回書いてから、クロードのビジネスはどうなっていますか？",
       "link": "https://www.anthropic.com/research/project-vend-2",
       "published": "2025-12-18T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795621+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115708+00:00",
       "translated": true
     },
     {
@@ -2025,7 +2025,7 @@
       "title_ja": "組織、パートナー、エコシステムのスキル",
       "link": "https://claude.com/blog/organization-skills-and-directory",
       "published": "2025-12-18T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889008+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298293+00:00",
       "translated": true
     },
     {
@@ -2038,7 +2038,7 @@
       "title_ja": "クロードをより優れた電気技術者にする",
       "link": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
       "published": "2025-12-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889014+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298300+00:00",
       "translated": true
     },
     {
@@ -2051,7 +2051,7 @@
       "title_ja": "Claude Codeパワーユーザーカスタマイゼーション：フックの設定方法",
       "link": "https://claude.com/blog/how-to-configure-hooks",
       "published": "2025-12-11T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889022+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298306+00:00",
       "translated": true
     },
     {
@@ -2090,7 +2090,7 @@
       "title_ja": "2026年に企業がAIエージェントを構築する方法",
       "link": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
       "published": "2025-12-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889028+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298314+00:00",
       "translated": true
     },
     {
@@ -2103,7 +2103,7 @@
       "title_ja": "Claude CodeとSlack",
       "link": "https://claude.com/blog/claude-code-and-slack",
       "published": "2025-12-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889034+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298321+00:00",
       "translated": true
     },
     {
@@ -2116,7 +2116,7 @@
       "title_ja": "Anthropicの法務チームがClaudeと一緒に審査時間を数日から数時間に短縮した方法",
       "link": "https://claude.com/blog/how-anthropic-uses-claude-legal",
       "published": "2025-12-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889040+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298327+00:00",
       "translated": true
     },
     {
@@ -2168,7 +2168,7 @@
       "title_ja": "ソフトウェア開発のためにエージェントコーディングに移行する主な利点は何ですか？",
       "link": "https://claude.com/blog/key-benefits-transitioning-agentic-coding",
       "published": "2025-12-01T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889046+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298333+00:00",
       "translated": true
     },
     {
@@ -2181,7 +2181,7 @@
       "title_ja": "長時間作動する薬剤のための効果的なハーネス",
       "link": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
       "published": "2025-11-26T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756662+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940057+00:00",
       "translated": true
     },
     {
@@ -2194,7 +2194,7 @@
       "title_ja": "CLAUDE.mdファイルの使用：コードベースのクロードコードのカスタマイズ",
       "link": "https://claude.com/blog/using-claude-md-files",
       "published": "2025-11-25T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889052+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298356+00:00",
       "translated": true
     },
     {
@@ -2220,7 +2220,7 @@
       "title_ja": "Claude開発者プラットフォームでの高度なツール使用のご紹介",
       "link": "https://www.anthropic.com/engineering/advanced-tool-use",
       "published": "2025-11-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756668+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940063+00:00",
       "translated": true
     },
     {
@@ -2233,7 +2233,7 @@
       "title_ja": "クロードの新機能：クロードを思考力のあるパートナーに変える",
       "link": "https://claude.com/blog/your-thinking-partner",
       "published": "2025-11-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889059+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298367+00:00",
       "translated": true
     },
     {
@@ -2246,7 +2246,7 @@
       "title_ja": "スキルの作成方法：主なステップ、制限事項、例",
       "link": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples",
       "published": "2025-11-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889065+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298374+00:00",
       "translated": true
     },
     {
@@ -2298,7 +2298,7 @@
       "title_ja": "3つのYCスタートアップがClaude Codeでどのように会社を構築したか",
       "link": "https://claude.com/blog/building-companies-with-claude-code",
       "published": "2025-11-17T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889072+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298380+00:00",
       "translated": true
     },
     {
@@ -2311,7 +2311,7 @@
       "title_ja": "Claude開発者プラットフォーム上の構造化された出力",
       "link": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
       "published": "2025-11-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889078+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298386+00:00",
       "translated": true
     },
     {
@@ -2363,7 +2363,7 @@
       "title_ja": "スキルの説明：スキルとプロンプト、プロジェクト、MCP、サブエージェントとの比較",
       "link": "https://claude.com/blog/skills-explained",
       "published": "2025-11-13T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889086+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298392+00:00",
       "translated": true
     },
     {
@@ -2389,7 +2389,7 @@
       "title_ja": "スキルによるフロントエンド設計の改善",
       "link": "https://claude.com/blog/improving-frontend-design-through-skills",
       "published": "2025-11-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889093+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298401+00:00",
       "translated": true
     },
     {
@@ -2402,7 +2402,7 @@
       "title_ja": "迅速なエンジニアリングのためのベストプラクティス",
       "link": "https://claude.com/blog/best-practices-for-prompt-engineering",
       "published": "2025-11-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889099+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298407+00:00",
       "translated": true
     },
     {
@@ -2467,7 +2467,7 @@
       "title_ja": "MCPによるコード実行：より効率的なエージェントの構築",
       "link": "https://www.anthropic.com/engineering/code-execution-with-mcp",
       "published": "2025-11-04T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756675+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940069+00:00",
       "translated": true
     },
     {
@@ -2480,7 +2480,7 @@
       "title_ja": "スタートアップ向けAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-for-startups",
       "published": "2025-11-03T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889105+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298413+00:00",
       "translated": true
     },
     {
@@ -2493,7 +2493,7 @@
       "title_ja": "モデルコンテキストプロトコルとは何ですか？ AIをあなたの世界に接続",
       "link": "https://claude.com/blog/what-is-model-context-protocol",
       "published": "2025-10-31T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889112+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298420+00:00",
       "translated": true
     },
     {
@@ -2506,7 +2506,7 @@
       "title_ja": "BrexがClaude Codeでコードの品質と生産性を向上させる方法",
       "link": "https://claude.com/blog/how-brex-improves-code-quality-and-productivity-with-claude-code",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889118+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298426+00:00",
       "translated": true
     },
     {
@@ -2519,7 +2519,7 @@
       "title_ja": "ヘルスケアとライフサイエンスのためのAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-in-healthcare-and-life-sciences",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889131+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298440+00:00",
       "translated": true
     },
     {
@@ -2532,7 +2532,7 @@
       "title_ja": "エージェントコーディング入門",
       "link": "https://claude.com/blog/introduction-to-agentic-coding",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889137+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298446+00:00",
       "translated": true
     },
     {
@@ -2545,7 +2545,7 @@
       "title_ja": "金融サービスのためのAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-in-financial-services",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889124+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298433+00:00",
       "translated": true
     },
     {
@@ -2571,7 +2571,7 @@
       "title_ja": "Claudeでソフトウェアのバグをすばやく修正",
       "link": "https://claude.com/blog/fix-software-bugs-faster-with-claude",
       "published": "2025-10-28T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889143+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298452+00:00",
       "translated": true
     },
     {
@@ -2597,7 +2597,7 @@
       "title_ja": "APIをシームレスに統合する方法",
       "link": "https://claude.com/blog/integrate-apis-seamlessly",
       "published": "2025-10-27T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889151+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298460+00:00",
       "translated": true
     },
     {
@@ -2662,7 +2662,7 @@
       "title_ja": "許可プロンプトを超えて： Claude Codeをより安全で自律的にする",
       "link": "https://www.anthropic.com/engineering/claude-code-sandboxing",
       "published": "2025-10-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756681+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940075+00:00",
       "translated": true
     },
     {
@@ -2675,7 +2675,7 @@
       "title_ja": "ウェブ上のClaude Code",
       "link": "https://claude.com/blog/claude-code-on-the-web",
       "published": "2025-10-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889158+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298468+00:00",
       "translated": true
     },
     {
@@ -2688,7 +2688,7 @@
       "title_ja": "エージェントスキルで現実世界のエージェントを装備",
       "link": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
       "published": "2025-10-16T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756687+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940082+00:00",
       "translated": true
     },
     {
@@ -2701,7 +2701,7 @@
       "title_ja": "エージェントスキルのご紹介",
       "link": "https://claude.com/blog/skills",
       "published": "2025-10-16T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889164+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298475+00:00",
       "translated": true
     },
     {
@@ -2714,7 +2714,7 @@
       "title_ja": "クロードとあなたの生産性プラットフォーム",
       "link": "https://claude.com/blog/productivity-platforms",
       "published": "2025-10-16T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889170+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298481+00:00",
       "translated": true
     },
     {
@@ -2740,7 +2740,7 @@
       "title_ja": "エンジニアリング組織全体でエージェントコーディングをスケーリングする方法",
       "link": "https://claude.com/blog/scaling-agentic-coding",
       "published": "2025-10-15T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889177+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298486+00:00",
       "translated": true
     },
     {
@@ -2766,7 +2766,7 @@
       "title_ja": "レスポンシブWebレイアウトを構築する",
       "link": "https://claude.com/blog/build-responsive-web-layouts",
       "published": "2025-10-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889183+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298493+00:00",
       "translated": true
     },
     {
@@ -2779,7 +2779,7 @@
       "title_ja": "プラグインでクロードコードをカスタマイズする",
       "link": "https://claude.com/blog/claude-code-plugins",
       "published": "2025-10-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889189+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298499+00:00",
       "translated": true
     },
     {
@@ -2792,7 +2792,7 @@
       "title_ja": "許可プロンプトを超えて： Claude Codeをより安全で自律的にする",
       "link": "https://claude.com/blog/beyond-permission-prompts-making-claude-code-more-secure-and-autonomous",
       "published": "2025-10-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889195+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298505+00:00",
       "translated": true
     },
     {
@@ -2844,7 +2844,7 @@
       "title_ja": "コードパフォーマンスを迅速に最適化",
       "link": "https://claude.com/blog/optimize-code-performance-quickly",
       "published": "2025-10-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889201+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298511+00:00",
       "translated": true
     },
     {
@@ -2857,7 +2857,7 @@
       "title_ja": "クロードとスラック",
       "link": "https://claude.com/blog/claude-and-slack",
       "published": "2025-10-01T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889207+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298517+00:00",
       "translated": true
     },
     {
@@ -2870,7 +2870,7 @@
       "title_ja": "企業がClaudeとAIトランスフォーメーションをどのように推進しているか",
       "link": "https://claude.com/blog/driving-ai-transformation-with-claude",
       "published": "2025-10-01T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889215+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298523+00:00",
       "translated": true
     },
     {
@@ -2909,7 +2909,7 @@
       "title_ja": "AIエージェントのための効果的なコンテキストエンジニアリング",
       "link": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756693+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940089+00:00",
       "translated": true
     },
     {
@@ -2922,7 +2922,7 @@
       "title_ja": "Claude開発者プラットフォームでのコンテキストの管理",
       "link": "https://claude.com/blog/context-management",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889221+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298533+00:00",
       "translated": true
     },
     {
@@ -2935,7 +2935,7 @@
       "title_ja": "Claude Agent SDKを使用したエージェントの構築",
       "link": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889227+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298539+00:00",
       "translated": true
     },
     {
@@ -2961,7 +2961,7 @@
       "title_ja": "ClaudeがMicrosoft 365 Copilotで利用可能になりました",
       "link": "https://claude.com/blog/claude-now-available-in-microsoft-365-copilot",
       "published": "2025-09-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889233+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298546+00:00",
       "translated": true
     },
     {
@@ -2974,7 +2974,7 @@
       "title_ja": "最近の3つの問題のポストモーテム",
       "link": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
       "published": "2025-09-17T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756700+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940095+00:00",
       "translated": true
     },
     {
@@ -3013,7 +3013,7 @@
       "title_ja": "エージェントのための効果的なツールを書く—エージェントと一緒に",
       "link": "https://www.anthropic.com/engineering/writing-tools-for-agents",
       "published": "2025-09-11T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756707+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940101+00:00",
       "translated": true
     },
     {
@@ -3026,7 +3026,7 @@
       "title_ja": "クロードに思い出を",
       "link": "https://claude.com/blog/memory",
       "published": "2025-09-11T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889240+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298552+00:00",
       "translated": true
     },
     {
@@ -3039,7 +3039,7 @@
       "title_ja": "Claudeはファイルを作成および編集できるようになりました",
       "link": "https://claude.com/blog/create-files",
       "published": "2025-09-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889246+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298558+00:00",
       "translated": true
     },
     {
@@ -3156,7 +3156,7 @@
       "title_ja": "クロムでクロードを操縦しよう",
       "link": "https://claude.com/blog/claude-for-chrome",
       "published": "2025-08-25T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889252+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298564+00:00",
       "translated": true
     },
     {
@@ -3208,7 +3208,7 @@
       "title_ja": "Claude Codeとビジネスプランの新しい管理者コントロール",
       "link": "https://claude.com/blog/claude-code-and-new-admin-controls-for-business-plans",
       "published": "2025-08-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889258+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298570+00:00",
       "translated": true
     },
     {
@@ -3234,7 +3234,7 @@
       "title_ja": "Claudeとの迅速なキャッシュ",
       "link": "https://claude.com/blog/prompt-caching",
       "published": "2025-08-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889264+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298576+00:00",
       "translated": true
     },
     {
@@ -3273,7 +3273,7 @@
       "title_ja": "クロードソネット4は、コンテキストの100万トークンをサポートするようになりました",
       "link": "https://claude.com/blog/1m-context",
       "published": "2025-08-12T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889270+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298582+00:00",
       "translated": true
     },
     {
@@ -3299,7 +3299,7 @@
       "title_ja": "Claude Codeでセキュリティレビューを自動化",
       "link": "https://claude.com/blog/automate-security-reviews-with-claude-code",
       "published": "2025-08-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889278+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298588+00:00",
       "translated": true
     },
     {
@@ -3364,7 +3364,7 @@
       "title_ja": "AIを搭載したアプリを構築してClaudeと共有する",
       "link": "https://claude.com/blog/claude-powered-artifacts",
       "published": "2025-07-25T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889284+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298596+00:00",
       "translated": true
     },
     {
@@ -3377,7 +3377,7 @@
       "title_ja": "AnthropicチームがClaude Codeを使用する方法",
       "link": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
       "published": "2025-07-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889291+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298602+00:00",
       "translated": true
     },
     {
@@ -3494,7 +3494,7 @@
       "title_ja": "Claudeと連携するツールを発見する",
       "link": "https://claude.com/blog/connectors-directory",
       "published": "2025-07-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889297+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298608+00:00",
       "translated": true
     },
     {
@@ -3572,7 +3572,7 @@
       "title_ja": "デスクトップ拡張機能： Claude Desktop用のワンクリックMCPサーバーインストール",
       "link": "https://www.anthropic.com/engineering/desktop-extensions",
       "published": "2025-06-26T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756714+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940107+00:00",
       "translated": true
     },
     {
@@ -3585,7 +3585,7 @@
       "title_ja": "アイデアをインタラクティブなAIアプリに変換",
       "link": "https://claude.com/blog/build-artifacts",
       "published": "2025-06-25T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889303+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298614+00:00",
       "translated": true
     },
     {
@@ -3598,7 +3598,7 @@
       "title_ja": "Anthropic APIの引用のご紹介",
       "link": "https://claude.com/blog/introducing-citations-api",
       "published": "2025-06-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889310+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298620+00:00",
       "translated": true
     },
     {
@@ -3611,7 +3611,7 @@
       "title_ja": "Claude CodeでのリモートMCPサポート",
       "link": "https://claude.com/blog/claude-code-remote-mcp",
       "published": "2025-06-18T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889316+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298626+00:00",
       "translated": true
     },
     {
@@ -3624,7 +3624,7 @@
       "title_ja": "マルチエージェントリサーチシステムの構築方法",
       "link": "https://www.anthropic.com/engineering/multi-agent-research-system",
       "published": "2025-06-13T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756720+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940113+00:00",
       "translated": true
     },
     {
@@ -3715,7 +3715,7 @@
       "title_ja": "Anthropic APIでエージェントを構築するための新機能",
       "link": "https://claude.com/blog/agent-capabilities-api",
       "published": "2025-05-22T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889322+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298632+00:00",
       "translated": true
     },
     {
@@ -3741,7 +3741,7 @@
       "title_ja": "Anthropic APIでのウェブ検索のご紹介",
       "link": "https://claude.com/blog/web-search-api",
       "published": "2025-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889329+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298639+00:00",
       "translated": true
     },
     {
@@ -3767,7 +3767,7 @@
       "title_ja": "クロードがあなたの世界とつながることができるようになりました",
       "link": "https://claude.com/blog/integrations",
       "published": "2025-05-01T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889335+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298645+00:00",
       "translated": true
     },
     {
@@ -3832,7 +3832,7 @@
       "title_ja": "クロードコード：エージェントコーディングのベストプラクティス",
       "link": "https://www.anthropic.com/engineering/claude-code-best-practices",
       "published": "2025-04-18T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756726+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940119+00:00",
       "translated": true
     },
     {
@@ -3845,7 +3845,7 @@
       "title_ja": "クロードは新しい場所に研究を連れて行く",
       "link": "https://claude.com/blog/research",
       "published": "2025-04-15T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889342+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298651+00:00",
       "translated": true
     },
     {
@@ -3858,7 +3858,7 @@
       "title_ja": "Maxプランのご紹介",
       "link": "https://claude.com/blog/max-plan",
       "published": "2025-04-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889348+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298658+00:00",
       "translated": true
     },
     {
@@ -3923,7 +3923,7 @@
       "title_ja": "Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized",
       "link": "https://claude.com/blog/claude-on-google-cloud-fedramp-high",
       "published": "2025-04-02T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889355+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298665+00:00",
       "translated": true
     },
     {
@@ -3949,7 +3949,7 @@
       "title_ja": "The \\\"think\\\" tool: Enabling Claude to stop and think in complex tool use situations",
       "link": "https://www.anthropic.com/engineering/claude-think-tool",
       "published": "2025-03-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756733+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940125+00:00",
       "translated": true
     },
     {
@@ -3962,7 +3962,7 @@
       "title_ja": "Claude can now search the web",
       "link": "https://claude.com/blog/web-search",
       "published": "2025-03-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889361+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298670+00:00",
       "translated": true
     },
     {
@@ -4001,7 +4001,7 @@
       "title_ja": "Token-saving updates on the Anthropic API",
       "link": "https://claude.com/blog/token-saving-updates",
       "published": "2025-03-13T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889367+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298677+00:00",
       "translated": true
     },
     {
@@ -4027,7 +4027,7 @@
       "title_ja": "Get to production faster with the upgraded Anthropic Console",
       "link": "https://claude.com/blog/upgraded-anthropic-console",
       "published": "2025-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889373+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298683+00:00",
       "translated": true
     },
     {
@@ -4183,7 +4183,7 @@
       "title_ja": "Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet",
       "link": "https://www.anthropic.com/engineering/swe-bench-sonnet",
       "published": "2025-01-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756739+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940131+00:00",
       "translated": true
     },
     {
@@ -4196,7 +4196,7 @@
       "title_ja": "Building effective agents",
       "link": "https://www.anthropic.com/engineering/building-effective-agents",
       "published": "2024-12-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756745+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940137+00:00",
       "translated": true
     },
     {
@@ -4222,7 +4222,7 @@
       "title_ja": "Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock",
       "link": "https://claude.com/blog/trainium2-and-distillation",
       "published": "2024-12-03T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889380+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298689+00:00",
       "translated": true
     },
     {
@@ -4287,7 +4287,7 @@
       "title_ja": "Introducing the analysis tool in Claude.ai",
       "link": "https://claude.com/blog/analysis-tool",
       "published": "2024-10-24T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889386+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298697+00:00",
       "translated": true
     },
     {
@@ -4339,7 +4339,7 @@
       "title_ja": "Improve your prompts in the developer console",
       "link": "https://claude.com/blog/prompt-improver",
       "published": "2024-10-14T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889392+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298703+00:00",
       "translated": true
     },
     {
@@ -4365,7 +4365,7 @@
       "title_ja": "Introducing the Message Batches API",
       "link": "https://claude.com/blog/message-batches-api",
       "published": "2024-10-08T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889398+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298709+00:00",
       "translated": true
     },
     {
@@ -4391,7 +4391,7 @@
       "title_ja": "Introducing Contextual Retrieval",
       "link": "https://www.anthropic.com/engineering/contextual-retrieval",
       "published": "2024-09-19T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.756751+00:00",
+      "fetched_at": "2026-05-22T08:50:00.940143+00:00",
       "translated": true
     },
     {
@@ -4404,7 +4404,7 @@
       "title_ja": "Workspaces in the Anthropic API Console",
       "link": "https://claude.com/blog/workspaces",
       "published": "2024-09-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889406+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298715+00:00",
       "translated": true
     },
     {
@@ -4417,7 +4417,7 @@
       "title_ja": "Claude for Enterprise",
       "link": "https://claude.com/blog/claude-for-enterprise",
       "published": "2024-09-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889417+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298723+00:00",
       "translated": true
     },
     {
@@ -4443,7 +4443,7 @@
       "title_ja": "Artifacts are now generally available",
       "link": "https://claude.com/blog/artifacts",
       "published": "2024-08-27T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889423+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298730+00:00",
       "translated": true
     },
     {
@@ -4495,7 +4495,7 @@
       "title_ja": "Claude Android app",
       "link": "https://claude.com/blog/android-app",
       "published": "2024-07-16T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889430+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298736+00:00",
       "translated": true
     },
     {
@@ -4521,7 +4521,7 @@
       "title_ja": "Fine-tune Claude 3 Haiku in Amazon Bedrock",
       "link": "https://claude.com/blog/fine-tune-claude-3-haiku",
       "published": "2024-07-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889436+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298742+00:00",
       "translated": true
     },
     {
@@ -4534,7 +4534,7 @@
       "title_ja": "Evaluate prompts in the developer console",
       "link": "https://claude.com/blog/evaluate-prompts",
       "published": "2024-07-09T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889442+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298748+00:00",
       "translated": true
     },
     {
@@ -4638,7 +4638,7 @@
       "title_ja": "Claude can now use tools",
       "link": "https://claude.com/blog/tool-use-ga",
       "published": "2024-05-30T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889448+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298754+00:00",
       "translated": true
     },
     {
@@ -4703,7 +4703,7 @@
       "title_ja": "Generate better prompts in the developer console",
       "link": "https://claude.com/blog/prompt-generator",
       "published": "2024-05-20T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889454+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298760+00:00",
       "translated": true
     },
     {
@@ -4755,7 +4755,7 @@
       "title_ja": "Economic Research",
       "link": "https://www.anthropic.com/research/team/economic-research",
       "published": "2024-05-10T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795646+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115727+00:00",
       "translated": true
     },
     {
@@ -4768,7 +4768,7 @@
       "title_ja": "Introducing the Claude Team plan and iOS app",
       "link": "https://claude.com/blog/team-plan-and-ios",
       "published": "2024-05-01T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889460+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298765+00:00",
       "translated": true
     },
     {
@@ -4898,7 +4898,7 @@
       "title_ja": "Long context prompting for Claude 2.1",
       "link": "https://claude.com/blog/claude-2-1-prompting",
       "published": "2023-12-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889466+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298771+00:00",
       "translated": true
     },
     {
@@ -4950,7 +4950,7 @@
       "title_ja": "Societal Impacts",
       "link": "https://www.anthropic.com/research/team/societal-impacts",
       "published": "2023-10-07T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795634+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115733+00:00",
       "translated": true
     },
     {
@@ -4963,7 +4963,7 @@
       "title_ja": "Alignment",
       "link": "https://www.anthropic.com/research/team/alignment",
       "published": "2023-10-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795640+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115714+00:00",
       "translated": true
     },
     {
@@ -4976,7 +4976,7 @@
       "title_ja": "Claude on Amazon Bedrock now available to every AWS customer",
       "link": "https://claude.com/blog/amazon-bedrock-general-availability",
       "published": "2023-09-28T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889474+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298777+00:00",
       "translated": true
     },
     {
@@ -5067,7 +5067,7 @@
       "title_ja": "Claude 2 on Amazon Bedrock",
       "link": "https://claude.com/blog/claude-2-amazon-bedrock",
       "published": "2023-08-23T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.889480+00:00",
+      "fetched_at": "2026-05-22T08:50:01.298785+00:00",
       "translated": true
     },
     {
@@ -5158,7 +5158,7 @@
       "title_ja": "Interpretability",
       "link": "https://www.anthropic.com/research/team/interpretability",
       "published": "2023-06-03T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.795627+00:00",
+      "fetched_at": "2026-05-22T08:50:01.115720+00:00",
       "translated": true
     },
     {
@@ -5275,7 +5275,7 @@
       "title_ja": "PwCは、クライアントのためにテクノロジーを構築し、取引を実行し、エンタープライズ機能を再発明するためにClaudeを展開しています",
       "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
       "published": "2023-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-22T02:32:38.601697+00:00",
+      "fetched_at": "2026-05-22T08:50:00.895570+00:00",
       "translated": true
     },
     {
@@ -5327,7 +5327,7 @@
       "title_ja": "v2.1.114",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21114",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099897+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559911+00:00",
       "translated": true
     },
     {
@@ -5340,7 +5340,7 @@
       "title_ja": "v2.1.113",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21113",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099906+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559919+00:00",
       "translated": true
     },
     {
@@ -5353,7 +5353,7 @@
       "title_ja": "v2.1.112",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21112",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099912+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559926+00:00",
       "translated": true
     },
     {
@@ -5366,7 +5366,7 @@
       "title_ja": "v2.1.111",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21111",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099919+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559933+00:00",
       "translated": true
     },
     {
@@ -5379,7 +5379,7 @@
       "title_ja": "v2.1.110",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21110",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099925+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559939+00:00",
       "translated": true
     },
     {
@@ -5392,7 +5392,7 @@
       "title_ja": "v2.1.109",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21109",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099932+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559945+00:00",
       "translated": true
     },
     {
@@ -5405,7 +5405,7 @@
       "title_ja": "v2.1.108",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21108",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099939+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559952+00:00",
       "translated": true
     },
     {
@@ -5418,7 +5418,7 @@
       "title_ja": "v2.1.107",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21107",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099945+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559958+00:00",
       "translated": true
     },
     {
@@ -5431,7 +5431,7 @@
       "title_ja": "v2.1.105",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21105",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099951+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559964+00:00",
       "translated": true
     },
     {
@@ -5444,7 +5444,7 @@
       "title_ja": "v2.1.101",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21101",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099958+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559970+00:00",
       "translated": true
     },
     {
@@ -5457,7 +5457,7 @@
       "title_ja": "v2.1.98",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2198",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099964+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559976+00:00",
       "translated": true
     },
     {
@@ -5470,7 +5470,7 @@
       "title_ja": "v2.1.97",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2197",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099970+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559982+00:00",
       "translated": true
     },
     {
@@ -5483,7 +5483,7 @@
       "title_ja": "v2.1.96",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2196",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099976+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559988+00:00",
       "translated": true
     },
     {
@@ -5496,7 +5496,7 @@
       "title_ja": "v2.1.94",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2194",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099982+00:00",
+      "fetched_at": "2026-05-22T08:50:01.559994+00:00",
       "translated": true
     },
     {
@@ -5509,7 +5509,7 @@
       "title_ja": "v2.1.92",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2192",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099988+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560000+00:00",
       "translated": true
     },
     {
@@ -5522,7 +5522,7 @@
       "title_ja": "v2.1.91",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2191",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.099994+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560006+00:00",
       "translated": true
     },
     {
@@ -5535,7 +5535,7 @@
       "title_ja": "v2.1.90",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2190",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100000+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560013+00:00",
       "translated": true
     },
     {
@@ -5548,7 +5548,7 @@
       "title_ja": "v2.1.89",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2189",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100006+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560019+00:00",
       "translated": true
     },
     {
@@ -5561,7 +5561,7 @@
       "title_ja": "v2.1.87",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2187",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100012+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560025+00:00",
       "translated": true
     },
     {
@@ -5574,7 +5574,7 @@
       "title_ja": "v2.1.86",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2186",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100018+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560031+00:00",
       "translated": true
     },
     {
@@ -5587,7 +5587,7 @@
       "title_ja": "v2.1.85",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2185",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100023+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560037+00:00",
       "translated": true
     },
     {
@@ -5600,7 +5600,7 @@
       "title_ja": "v2.1.84",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2184",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100029+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560042+00:00",
       "translated": true
     },
     {
@@ -5613,7 +5613,7 @@
       "title_ja": "v2.1.83",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2183",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100035+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560048+00:00",
       "translated": true
     },
     {
@@ -5626,7 +5626,7 @@
       "title_ja": "v2.1.81",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2181",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100041+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560054+00:00",
       "translated": true
     },
     {
@@ -5639,7 +5639,7 @@
       "title_ja": "v2.1.80",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2180",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100046+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560060+00:00",
       "translated": true
     },
     {
@@ -5652,7 +5652,7 @@
       "title_ja": "v2.1.79",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2179",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100052+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560065+00:00",
       "translated": true
     },
     {
@@ -5665,7 +5665,7 @@
       "title_ja": "v2.1.78",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2178",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100058+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560071+00:00",
       "translated": true
     },
     {
@@ -5678,7 +5678,7 @@
       "title_ja": "v2.1.77",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2177",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100064+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560077+00:00",
       "translated": true
     },
     {
@@ -5691,7 +5691,7 @@
       "title_ja": "v2.1.76",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2176",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100069+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560082+00:00",
       "translated": true
     },
     {
@@ -5704,7 +5704,7 @@
       "title_ja": "v2.1.75",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2175",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100075+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560088+00:00",
       "translated": true
     },
     {
@@ -5717,7 +5717,7 @@
       "title_ja": "v2.1.74",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2174",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100081+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560093+00:00",
       "translated": true
     },
     {
@@ -5730,7 +5730,7 @@
       "title_ja": "v2.1.73",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2173",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100086+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560099+00:00",
       "translated": true
     },
     {
@@ -5743,7 +5743,7 @@
       "title_ja": "v2.1.72",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2172",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100092+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560105+00:00",
       "translated": true
     },
     {
@@ -5756,7 +5756,7 @@
       "title_ja": "v2.1.71",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2171",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100098+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560110+00:00",
       "translated": true
     },
     {
@@ -5769,7 +5769,7 @@
       "title_ja": "v2.1.70",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2170",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100103+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560115+00:00",
       "translated": true
     },
     {
@@ -5782,7 +5782,7 @@
       "title_ja": "v2.1.69",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2169",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100109+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560121+00:00",
       "translated": true
     },
     {
@@ -5795,7 +5795,7 @@
       "title_ja": "v2.1.68",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2168",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100115+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560126+00:00",
       "translated": true
     },
     {
@@ -5808,7 +5808,7 @@
       "title_ja": "v2.1.66",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2166",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100120+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560132+00:00",
       "translated": true
     },
     {
@@ -5821,7 +5821,7 @@
       "title_ja": "v2.1.63",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2163",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100126+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560137+00:00",
       "translated": true
     },
     {
@@ -5834,7 +5834,7 @@
       "title_ja": "v2.1.62",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2162",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100132+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560143+00:00",
       "translated": true
     },
     {
@@ -5847,7 +5847,7 @@
       "title_ja": "v2.1.61",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2161",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100137+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560148+00:00",
       "translated": true
     },
     {
@@ -5860,7 +5860,7 @@
       "title_ja": "v2.1.59",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2159",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100143+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560154+00:00",
       "translated": true
     },
     {
@@ -5873,7 +5873,7 @@
       "title_ja": "v2.1.58",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2158",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100149+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560159+00:00",
       "translated": true
     },
     {
@@ -5886,7 +5886,7 @@
       "title_ja": "v2.1.56",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2156",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100154+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560165+00:00",
       "translated": true
     },
     {
@@ -5899,7 +5899,7 @@
       "title_ja": "v2.1.55",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2155",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100160+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560170+00:00",
       "translated": true
     },
     {
@@ -5912,7 +5912,7 @@
       "title_ja": "v2.1.53",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2153",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100166+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560176+00:00",
       "translated": true
     },
     {
@@ -5925,7 +5925,7 @@
       "title_ja": "v2.1.52",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2152",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100171+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560181+00:00",
       "translated": true
     },
     {
@@ -5938,7 +5938,7 @@
       "title_ja": "v2.1.51",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2151",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100177+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560187+00:00",
       "translated": true
     },
     {
@@ -5951,7 +5951,7 @@
       "title_ja": "v2.1.50",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2150",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100183+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560193+00:00",
       "translated": true
     },
     {
@@ -5964,11 +5964,11 @@
       "title_ja": "v2.1.49",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2149",
       "published": null,
-      "fetched_at": "2026-05-22T02:32:39.100188+00:00",
+      "fetched_at": "2026-05-22T08:50:01.560199+00:00",
       "translated": true
     }
   ],
-  "updated_at": "2026-05-22T02:32:39.100771+00:00",
+  "updated_at": "2026-05-22T08:50:01.560657+00:00",
   "source_count": 5,
   "item_count": 459
 }
