@@ -10,7 +10,7 @@
       "title_ja": "Anthropic、シリーズHの資金調達で650億$を調達、資金調達後の評価額は9,650億$",
       "link": "https://www.anthropic.com/news/series-h",
       "published": "2026-05-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484169+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808881+00:00",
       "translated": true
     },
     {
@@ -23,7 +23,7 @@
       "title_ja": "クロード・オーパス4.8のご紹介",
       "link": "https://www.anthropic.com/news/claude-opus-4-8",
       "published": "2026-05-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484184+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808896+00:00",
       "translated": true
     },
     {
@@ -36,7 +36,7 @@
       "title_ja": "Claude Codeのダイナミックワークフローのご紹介",
       "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
       "published": "2026-05-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643519+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990220+00:00",
       "translated": true
     },
     {
@@ -49,7 +49,7 @@
       "title_ja": "AIエージェントに対するゼロトラスト",
       "link": "https://claude.com/blog/zero-trust-for-ai-agents",
       "published": "2026-05-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643531+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990232+00:00",
       "translated": true
     },
     {
@@ -62,7 +62,7 @@
       "title_ja": "CodeRabbitがClaudeを使用してエージェントオーケストレーションシステムを構築した方法",
       "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
       "published": "2026-05-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643539+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990240+00:00",
       "translated": true
     },
     {
@@ -75,7 +75,7 @@
       "title_ja": "2026年5月27日経済研究社会科学におけるコーディングエージェント",
       "link": "https://www.anthropic.com/research/coding-agents-social-sciences",
       "published": "2026-05-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562487+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892413+00:00",
       "translated": true
     },
     {
@@ -88,7 +88,7 @@
       "title_ja": "LLMを使用してソースコードを保護する",
       "link": "https://claude.com/blog/using-llms-to-secure-source-code",
       "published": "2026-05-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643545+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990246+00:00",
       "translated": true
     },
     {
@@ -101,7 +101,7 @@
       "title_ja": "Anthropicがイタリアの企業、研究、開発者をサポートするためにミラノにオフィスを開設",
       "link": "https://www.anthropic.com/news/milan-office-opening",
       "published": "2026-05-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484192+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808904+00:00",
       "translated": true
     },
     {
@@ -114,7 +114,7 @@
       "title_ja": "Anthropic、ソウルオフィス開設に先立ち韓国代表取締役にKiYoung Choiを任命",
       "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
       "published": "2026-05-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484199+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808912+00:00",
       "translated": true
     },
     {
@@ -127,7 +127,7 @@
       "title_ja": "Claude London 2026によるコード：構築方法の再考",
       "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
       "published": "2026-05-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643551+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990253+00:00",
       "translated": true
     },
     {
@@ -140,7 +140,7 @@
       "title_ja": "教皇レオ14世の回勅「Magnifica humanitas」に関するAnthropicの共同創設者Chris Olahの発言",
       "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
       "published": "2026-05-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484206+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808920+00:00",
       "translated": true
     },
     {
@@ -153,7 +153,7 @@
       "title_ja": "製品全体でクロードをどのように封じ込めるか",
       "link": "https://www.anthropic.com/engineering/how-we-contain-claude",
       "published": "2026-05-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526870+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852944+00:00",
       "translated": true
     },
     {
@@ -166,7 +166,7 @@
       "title_ja": "Anthropicの財務チームがClaudeを使用して数字の背後にある物語をどのように形作っているか",
       "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
       "published": "2026-05-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643557+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990260+00:00",
       "translated": true
     },
     {
@@ -179,7 +179,7 @@
       "title_ja": "2026年5月22日お知らせProject Glasswing:初期アップデート",
       "link": "https://www.anthropic.com/research/glasswing-initial-update",
       "published": "2026-05-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562498+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892423+00:00",
       "translated": true
     },
     {
@@ -192,7 +192,7 @@
       "title_ja": "当社のパートナーがサイバーセキュリティのためにOpusをどのように活用しているか",
       "link": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
       "published": "2026-05-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643564+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990267+00:00",
       "translated": true
     },
     {
@@ -205,7 +205,7 @@
       "title_ja": "Claudeは現在、より多くのセキュリティおよびコンプライアンスツールと連携しています",
       "link": "https://claude.com/blog/compliance-api-security-partners",
       "published": "2026-05-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643570+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990273+00:00",
       "translated": true
     },
     {
@@ -218,7 +218,7 @@
       "title_ja": "クロードコードの使用： HTMLの不合理な効果",
       "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
       "published": "2026-05-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643586+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990290+00:00",
       "translated": true
     },
     {
@@ -231,7 +231,7 @@
       "title_ja": "AnthropicのセールスリーダーがClaude Coworkを使用して4,000アカウントの帳簿を管理する方法",
       "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
       "published": "2026-05-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643577+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990280+00:00",
       "translated": true
     },
     {
@@ -244,7 +244,7 @@
       "title_ja": "KPMGは、戦略的提携で276,000人以上のコアビジネスと従業員全体でClaudeを統合します",
       "link": "https://www.anthropic.com/news/anthropic-kpmg",
       "published": "2026-05-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484213+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808926+00:00",
       "translated": true
     },
     {
@@ -257,7 +257,7 @@
       "title_ja": "Claudeマネージドエージェントの新機能：セルフホストサンドボックスとMCPトンネル",
       "link": "https://claude.com/blog/claude-managed-agents-updates",
       "published": "2026-05-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643593+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990297+00:00",
       "translated": true
     },
     {
@@ -270,7 +270,7 @@
       "title_ja": "フロンティアAIに関する会話を広げる",
       "link": "https://www.anthropic.com/news/widening-conversation-ai",
       "published": "2026-05-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484219+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808933+00:00",
       "translated": true
     },
     {
@@ -283,7 +283,7 @@
       "title_ja": "Anthropicがステンレスを買収",
       "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
       "published": "2026-05-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484224+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808939+00:00",
       "translated": true
     },
     {
@@ -296,7 +296,7 @@
       "title_ja": "法律業界全体にClaudeを展開する",
       "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
       "published": "2026-05-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643599+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990303+00:00",
       "translated": true
     },
     {
@@ -309,7 +309,7 @@
       "title_ja": "Anthropicはゲイツ財団と2億$のパートナーシップを結ぶ",
       "link": "https://www.anthropic.com/news/gates-foundation-partnership",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484230+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808945+00:00",
       "translated": true
     },
     {
@@ -322,7 +322,7 @@
       "title_ja": "2026年5月14日Policy 2028 ：グローバルAIリーダーシップの2つのシナリオ",
       "link": "https://www.anthropic.com/research/2028-ai-leadership",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562505+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892431+00:00",
       "translated": true
     },
     {
@@ -335,7 +335,7 @@
       "title_ja": "クロードコードが大規模なコードベースでどのように機能するか：ベストプラクティスと出発点",
       "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643605+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990310+00:00",
       "translated": true
     },
     {
@@ -348,7 +348,7 @@
       "title_ja": "創業者の作戦帳： AIネイティブのスタートアップを構築する",
       "link": "https://claude.com/blog/the-founders-playbook",
       "published": "2026-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643611+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990316+00:00",
       "translated": true
     },
     {
@@ -361,7 +361,7 @@
       "title_ja": "中小企業向けClaudeのご紹介",
       "link": "https://www.anthropic.com/news/claude-for-small-business",
       "published": "2026-05-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484245+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808964+00:00",
       "translated": true
     },
     {
@@ -374,7 +374,7 @@
       "title_ja": "Claudeによるコンピューターとブラウザーの使用に関するベストプラクティス",
       "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
       "published": "2026-05-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643616+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990322+00:00",
       "translated": true
     },
     {
@@ -387,7 +387,7 @@
       "title_ja": "AnthropicのサイバーセキュリティチームがClaude Codeを使用して脅威検出プラットフォームを構築した方法",
       "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
       "published": "2026-05-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643622+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990328+00:00",
       "translated": true
     },
     {
@@ -400,7 +400,7 @@
       "title_ja": "法律業界のためのクロード",
       "link": "https://claude.com/blog/claude-for-the-legal-industry",
       "published": "2026-05-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643628+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990335+00:00",
       "translated": true
     },
     {
@@ -413,7 +413,7 @@
       "title_ja": "クロードSF 2026のコード： AIの指数関数的な構築",
       "link": "https://claude.com/blog/code-w-claude-sf-2026-sf",
       "published": "2026-05-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643634+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990341+00:00",
       "translated": true
     },
     {
@@ -426,7 +426,7 @@
       "title_ja": "AWSのClaudeプラットフォームのご紹介",
       "link": "https://claude.com/blog/claude-platform-on-aws",
       "published": "2026-05-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643640+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990347+00:00",
       "translated": true
     },
     {
@@ -439,7 +439,7 @@
       "title_ja": "クロードコードのエージェントビュー",
       "link": "https://claude.com/blog/agent-view-in-claude-code",
       "published": "2026-05-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643648+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990355+00:00",
       "translated": true
     },
     {
@@ -452,7 +452,7 @@
       "title_ja": "2026年5月8日AlignmentTeaching Claude why",
       "link": "https://www.anthropic.com/research/teaching-claude-why",
       "published": "2026-05-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562512+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892438+00:00",
       "translated": true
     },
     {
@@ -465,7 +465,7 @@
       "title_ja": "2026年5月7日人類研究所の政策重点分野",
       "link": "https://www.anthropic.com/research/anthropic-institute-agenda",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562519+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892445+00:00",
       "translated": true
     },
     {
@@ -478,7 +478,7 @@
       "title_ja": "自然言語オートエンコーダー：クロードの考えをテキストに変える",
       "link": "https://www.anthropic.com/research/natural-language-autoencoders",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562531+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892458+00:00",
       "translated": true
     },
     {
@@ -491,7 +491,7 @@
       "title_ja": "Excel、PowerPoint、Word、OutlookにわたるClaudeとのコラボレーション",
       "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643654+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990362+00:00",
       "translated": true
     },
     {
@@ -504,7 +504,7 @@
       "title_ja": "2026年5月7日連携オープンソース連携ツールの寄付",
       "link": "https://www.anthropic.com/research/donating-open-source-petri",
       "published": "2026-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562525+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892451+00:00",
       "translated": true
     },
     {
@@ -517,7 +517,7 @@
       "title_ja": "クロードのより高い使用制限とSpaceXとのコンピューティング契約",
       "link": "https://www.anthropic.com/news/higher-limits-spacex",
       "published": "2026-05-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484251+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808971+00:00",
       "translated": true
     },
     {
@@ -530,7 +530,7 @@
       "title_ja": "Claudeマネージドエージェントの新機能：夢、結果、マルチエージェントオーケストレーション",
       "link": "https://claude.com/blog/new-in-claude-managed-agents",
       "published": "2026-05-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643659+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990368+00:00",
       "translated": true
     },
     {
@@ -543,7 +543,7 @@
       "title_ja": "金融サービスのエージェント",
       "link": "https://www.anthropic.com/news/finance-agents",
       "published": "2026-05-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484258+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808977+00:00",
       "translated": true
     },
     {
@@ -556,7 +556,7 @@
       "title_ja": "金融サービス全体にClaudeを展開する",
       "link": "https://claude.com/blog/deploying-claude-across-financial-services",
       "published": "2026-05-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643665+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990375+00:00",
       "translated": true
     },
     {
@@ -569,7 +569,7 @@
       "title_ja": "ブラックストーン、ヘルマン＆フリードマン、ゴールドマン・サックスと共に新しいエンタープライズAIサービス会社を構築",
       "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
       "published": "2026-05-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484263+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808983+00:00",
       "translated": true
     },
     {
@@ -582,7 +582,7 @@
       "title_ja": "技術者以外のプロジェクトマネージャーがClaude Codeを使用してストレスマネジメントアプリを6週間で構築して出荷した方法",
       "link": "https://claude.com/blog/how-a-non-technical-project-manager-built-and-shipped-a-stress-management-app-with-claude-code-in-six-weeks",
       "published": "2026-05-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643671+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990381+00:00",
       "translated": true
     },
     {
@@ -595,7 +595,7 @@
       "title_ja": "2026年4月30日社会的影響クロードに個人的な指導を求める方法",
       "link": "https://www.anthropic.com/research/claude-personal-guidance",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562537+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892464+00:00",
       "translated": true
     },
     {
@@ -608,7 +608,7 @@
       "title_ja": "クロードと一緒に金融サービス用の検証可能なAIをケプラーがどのように構築したか",
       "link": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643677+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990387+00:00",
       "translated": true
     },
     {
@@ -621,7 +621,7 @@
       "title_ja": "クロードコードの構築からの教訓：迅速なキャッシュがすべて",
       "link": "https://claude.com/blog/lessons-from-building-claude-code-prompt-caching-is-everything",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643683+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990393+00:00",
       "translated": true
     },
     {
@@ -634,7 +634,7 @@
       "title_ja": "Claude Securityが公開ベータ版になりました",
       "link": "https://claude.com/blog/claude-security-public-beta",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643689+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990399+00:00",
       "translated": true
     },
     {
@@ -647,7 +647,7 @@
       "title_ja": "企業向けのAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-for-the-enterprise",
       "published": "2026-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643694+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990405+00:00",
       "translated": true
     },
     {
@@ -660,7 +660,7 @@
       "title_ja": "エージェント時代の製品開発",
       "link": "https://claude.com/blog/product-development-in-the-agentic-era",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643700+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990411+00:00",
       "translated": true
     },
     {
@@ -673,7 +673,7 @@
       "title_ja": "CodeRabbit、JetBrains、Resolve AI、WarpにClaude APIスキルを追加",
       "link": "https://claude.com/blog/claude-api-skill",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643708+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990419+00:00",
       "translated": true
     },
     {
@@ -686,7 +686,7 @@
       "title_ja": "Claude Coworkと一緒に企業全体にClaudeを展開する",
       "link": "https://claude.com/blog/new-guide-deploying-claude-across-the-enterprise-with-claude-cowork",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643714+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990425+00:00",
       "translated": true
     },
     {
@@ -699,7 +699,7 @@
       "title_ja": "2026年4月29日BioMysteryBenchによるClaudeのバイオインフォマティクス研究能力の評価",
       "link": "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
       "published": "2026-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562543+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892471+00:00",
       "translated": true
     },
     {
@@ -712,7 +712,7 @@
       "title_ja": "クリエイティブワークのためのクロード",
       "link": "https://www.anthropic.com/news/claude-for-creative-work",
       "published": "2026-04-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484270+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808990+00:00",
       "translated": true
     },
     {
@@ -725,7 +725,7 @@
       "title_ja": "新しい開発者のようなClaude Codeのオンボーディング： 17年間の開発からの教訓",
       "link": "https://claude.com/blog/onboarding-claude-code-like-a-new-developer-lessons-from-17-years-of-development",
       "published": "2026-04-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643720+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990431+00:00",
       "translated": true
     },
     {
@@ -738,7 +738,7 @@
       "title_ja": "Anthropic、オーストラリアとニュージーランドのゼネラルマネージャーをTheo Hourmouzisに任命し、シドニーオフィスを正式に開設",
       "link": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
       "published": "2026-04-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484275+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808996+00:00",
       "translated": true
     },
     {
@@ -751,7 +751,7 @@
       "title_ja": "AnthropicとNECが協力して日本最大のAIエンジニアリング人材を構築",
       "link": "https://www.anthropic.com/news/anthropic-nec",
       "published": "2026-04-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484281+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809002+00:00",
       "translated": true
     },
     {
@@ -764,7 +764,7 @@
       "title_ja": "選挙セーフガードの最新情報",
       "link": "https://www.anthropic.com/news/election-safeguards-update",
       "published": "2026-04-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484287+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809009+00:00",
       "translated": true
     },
     {
@@ -777,7 +777,7 @@
       "title_ja": "最近のClaude Code品質レポートに関する最新情報",
       "link": "https://www.anthropic.com/engineering/april-23-postmortem",
       "published": "2026-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526881+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852954+00:00",
       "translated": true
     },
     {
@@ -790,7 +790,7 @@
       "title_ja": "Claudeマネージドエージェント用の内蔵メモリ",
       "link": "https://claude.com/blog/claude-managed-agents-memory",
       "published": "2026-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643726+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990437+00:00",
       "translated": true
     },
     {
@@ -803,7 +803,7 @@
       "title_ja": "日常生活のためのClaudeの新しいコネクタ",
       "link": "https://claude.com/blog/connectors-for-everyday-life",
       "published": "2026-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643732+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990443+00:00",
       "translated": true
     },
     {
@@ -829,7 +829,7 @@
       "title_ja": "2026年4月22日経済調査Anthropic Economic Index Surveyの発表",
       "link": "https://www.anthropic.com/research/economic-index-survey-announcement",
       "published": "2026-04-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562550+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892477+00:00",
       "translated": true
     },
     {
@@ -842,7 +842,7 @@
       "title_ja": "MCPで生産システムに到達するビルディングエージェント",
       "link": "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
       "published": "2026-04-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643738+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990450+00:00",
       "translated": true
     },
     {
@@ -855,7 +855,7 @@
       "title_ja": "AnthropicとAmazonは、最大5ギガワットの新しいコンピューティングのコラボレーションを拡大",
       "link": "https://www.anthropic.com/news/anthropic-amazon-compute",
       "published": "2026-04-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484293+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809015+00:00",
       "translated": true
     },
     {
@@ -868,7 +868,7 @@
       "title_ja": "「Built with Opus 4.6 Claude Code」ハッカソンの受賞者をご紹介します",
       "link": "https://claude.com/blog/meet-the-winners-of-our-built-with-opus-4-6-claude-code-hackathon",
       "published": "2026-04-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643744+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990456+00:00",
       "translated": true
     },
     {
@@ -881,7 +881,7 @@
       "title_ja": "[注意]このフィードはメンテナンスされなくなりました",
       "link": "https://code.claude.com/docs/en/changelog/rss.xml",
       "published": "2026-04-18T14:24:42+00:00",
-      "fetched_at": "2026-05-30T08:17:24.757995+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153298+00:00",
       "translated": true
     },
     {
@@ -894,7 +894,7 @@
       "title_ja": "Anthropic Labsによるクロードデザインのご紹介",
       "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
       "published": "2026-04-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484299+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809022+00:00",
       "translated": true
     },
     {
@@ -907,7 +907,7 @@
       "title_ja": "クロード・オーパス4.7の登場",
       "link": "https://www.anthropic.com/news/claude-opus-4-7",
       "published": "2026-04-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484309+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809032+00:00",
       "translated": true
     },
     {
@@ -920,7 +920,7 @@
       "title_ja": "Claude CodeでClaude Opus 4.7を使用するためのベストプラクティス",
       "link": "https://claude.com/blog/best-practices-for-using-claude-opus-4-7-with-claude-code",
       "published": "2026-04-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643750+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990462+00:00",
       "translated": true
     },
     {
@@ -933,7 +933,7 @@
       "title_ja": "クロードコードの使用：セッション管理と1 Mコンテキスト",
       "link": "https://claude.com/blog/using-claude-code-session-management-and-1m-context",
       "published": "2026-04-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643755+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990468+00:00",
       "translated": true
     },
     {
@@ -946,7 +946,7 @@
       "title_ja": "Anthropicの長期給付信託がVas Narasimhanを取締役会に任命",
       "link": "https://www.anthropic.com/news/narasimhan-board",
       "published": "2026-04-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484315+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809038+00:00",
       "translated": true
     },
     {
@@ -972,7 +972,7 @@
       "title_ja": "クロードコードのルーチンのご紹介",
       "link": "https://claude.com/blog/introducing-routines-in-claude-code",
       "published": "2026-04-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643761+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990474+00:00",
       "translated": true
     },
     {
@@ -985,7 +985,7 @@
       "title_ja": "並列エージェントのためのデスクトップでのクロードコードの再設計",
       "link": "https://claude.com/blog/claude-code-desktop-redesign",
       "published": "2026-04-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643769+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990487+00:00",
       "translated": true
     },
     {
@@ -998,7 +998,7 @@
       "title_ja": "マルチエージェントコーディネーションパターン： 5つのアプローチとそれらを使用するタイミング",
       "link": "https://claude.com/blog/multi-agent-coordination-patterns",
       "published": "2026-04-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643775+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990493+00:00",
       "translated": true
     },
     {
@@ -1011,7 +1011,7 @@
       "title_ja": "エージェントのように見える： Claude Codeでツールを設計する方法",
       "link": "https://claude.com/blog/seeing-like-an-agent",
       "published": "2026-04-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643781+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990500+00:00",
       "translated": true
     },
     {
@@ -1024,7 +1024,7 @@
       "title_ja": "AIアクセラレーテッド攻撃に対するセキュリティプログラムの準備",
       "link": "https://claude.com/blog/preparing-your-security-program-for-ai-accelerated-offense",
       "published": "2026-04-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643787+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990506+00:00",
       "translated": true
     },
     {
@@ -1050,7 +1050,7 @@
       "title_ja": "Claude Coworkをエンタープライズに対応させる",
       "link": "https://claude.com/blog/cowork-for-enterprise",
       "published": "2026-04-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643793+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990512+00:00",
       "translated": true
     },
     {
@@ -1063,7 +1063,7 @@
       "title_ja": "アドバイザー戦略：エージェントのインテリジェンスを高める",
       "link": "https://claude.com/blog/the-advisor-strategy",
       "published": "2026-04-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643799+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990549+00:00",
       "translated": true
     },
     {
@@ -1076,7 +1076,7 @@
       "title_ja": "マネージドエージェントのスケーリング：手から脳を切り離す",
       "link": "https://www.anthropic.com/engineering/managed-agents",
       "published": "2026-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526888+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852961+00:00",
       "translated": true
     },
     {
@@ -1089,7 +1089,7 @@
       "title_ja": "CARTA HealthcareがAIを臨床アブストラクトのように推論させる方法",
       "link": "https://claude.com/blog/carta-healthcare-clinical-abstractor",
       "published": "2026-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643804+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990556+00:00",
       "translated": true
     },
     {
@@ -1102,7 +1102,7 @@
       "title_ja": "Claudeマネージドエージェント：本番稼働までの時間を10倍に短縮",
       "link": "https://claude.com/blog/claude-managed-agents",
       "published": "2026-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643810+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990573+00:00",
       "translated": true
     },
     {
@@ -1115,7 +1115,7 @@
       "title_ja": "Claude Codeでサブエージェントを使用する方法とタイミング",
       "link": "https://claude.com/blog/subagents-in-claude-code",
       "published": "2026-04-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643816+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990586+00:00",
       "translated": true
     },
     {
@@ -1128,7 +1128,7 @@
       "title_ja": "Anthropic、GoogleとBroadcomとのパートナーシップを拡大し、数ギガワットの次世代コンピューティングを実現",
       "link": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
       "published": "2026-04-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484321+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809045+00:00",
       "translated": true
     },
     {
@@ -1154,7 +1154,7 @@
       "title_ja": "クロードの知性の活用",
       "link": "https://claude.com/blog/harnessing-claudes-intelligence",
       "published": "2026-04-02T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643822+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990600+00:00",
       "translated": true
     },
     {
@@ -1167,7 +1167,7 @@
       "title_ja": "オーストラリア政府とAnthropicがAIの安全性と研究のためのMOUに署名",
       "link": "https://www.anthropic.com/news/australia-MOU",
       "published": "2026-03-31T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484327+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809051+00:00",
       "translated": true
     },
     {
@@ -1193,7 +1193,7 @@
       "title_ja": "コンプライアンスAPIを使用してClaudeプラットフォームのアクティビティを監査する",
       "link": "https://claude.com/blog/claude-platform-compliance-api",
       "published": "2026-03-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643844+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990616+00:00",
       "translated": true
     },
     {
@@ -1206,7 +1206,7 @@
       "title_ja": "Claude Code自動モード：権限をスキップするより安全な方法",
       "link": "https://www.anthropic.com/engineering/claude-code-auto-mode",
       "published": "2026-03-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526894+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852968+00:00",
       "translated": true
     },
     {
@@ -1219,7 +1219,7 @@
       "title_ja": "長期的なアプリケーション開発のためのハーネス設計",
       "link": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
       "published": "2026-03-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526900+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852974+00:00",
       "translated": true
     },
     {
@@ -1245,7 +1245,7 @@
       "title_ja": "クロードコードの自動モード",
       "link": "https://claude.com/blog/auto-mode",
       "published": "2026-03-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643850+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990623+00:00",
       "translated": true
     },
     {
@@ -1297,7 +1297,7 @@
       "title_ja": "クロードをあなたのコンピューターで働かせる",
       "link": "https://claude.com/blog/dispatch-and-computer-use",
       "published": "2026-03-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643856+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990629+00:00",
       "translated": true
     },
     {
@@ -1310,7 +1310,7 @@
       "title_ja": "AI指数関数的な製品管理",
       "link": "https://claude.com/blog/product-management-on-the-ai-exponential",
       "published": "2026-03-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643862+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990635+00:00",
       "translated": true
     },
     {
@@ -1323,7 +1323,7 @@
       "title_ja": "Claudeと一緒にサンフランシスコ、ロンドン、東京でコードを学ぼう",
       "link": "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo",
       "published": "2026-03-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643868+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990642+00:00",
       "translated": true
     },
     {
@@ -1336,7 +1336,7 @@
       "title_ja": "1 MコンテキストがOpus 4.6とSonnet 4.6で一般的に利用可能になりました",
       "link": "https://claude.com/blog/1m-context-ga",
       "published": "2026-03-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643874+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990648+00:00",
       "translated": true
     },
     {
@@ -1349,7 +1349,7 @@
       "title_ja": "Anthropic、Claude Partner Networkに1億$を投資",
       "link": "https://www.anthropic.com/news/claude-partner-network",
       "published": "2026-03-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484332+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809057+00:00",
       "translated": true
     },
     {
@@ -1362,7 +1362,7 @@
       "title_ja": "クロードは現在、インタラクティブなチャート、ダイアグラム、視覚化を作成しています",
       "link": "https://claude.com/blog/claude-builds-visuals",
       "published": "2026-03-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643880+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990655+00:00",
       "translated": true
     },
     {
@@ -1375,7 +1375,7 @@
       "title_ja": "人類研究所のご紹介",
       "link": "https://www.anthropic.com/news/the-anthropic-institute",
       "published": "2026-03-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484338+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809063+00:00",
       "translated": true
     },
     {
@@ -1388,7 +1388,7 @@
       "title_ja": "ExcelとPowerPoint用のClaudeの進化",
       "link": "https://claude.com/blog/claude-excel-powerpoint-updates",
       "published": "2026-03-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643886+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990661+00:00",
       "translated": true
     },
     {
@@ -1401,7 +1401,7 @@
       "title_ja": "シドニーは、Anthropicのアジア太平洋地域で4番目のオフィスになります",
       "link": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
       "published": "2026-03-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484345+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809070+00:00",
       "translated": true
     },
     {
@@ -1414,7 +1414,7 @@
       "title_ja": "Claude Codeへのコードレビューの導入",
       "link": "https://claude.com/blog/code-review",
       "published": "2026-03-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643891+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990667+00:00",
       "translated": true
     },
     {
@@ -1427,7 +1427,7 @@
       "title_ja": "Firefoxのセキュリティを向上させるためにMozillaと提携",
       "link": "https://www.anthropic.com/news/mozilla-firefox-security",
       "published": "2026-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484351+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809076+00:00",
       "translated": true
     },
     {
@@ -1440,7 +1440,7 @@
       "title_ja": "Claude Opus 4.6のBrowseCompパフォーマンスにおける評価意識",
       "link": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
       "published": "2026-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526907+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852980+00:00",
       "translated": true
     },
     {
@@ -1453,7 +1453,7 @@
       "title_ja": "陸軍省の現状",
       "link": "https://www.anthropic.com/news/where-stand-department-war",
       "published": "2026-03-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484356+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809083+00:00",
       "translated": true
     },
     {
@@ -1466,7 +1466,7 @@
       "title_ja": "AIエージェントの一般的なワークフローパターンとその使用時期",
       "link": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
       "published": "2026-03-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643897+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990673+00:00",
       "translated": true
     },
     {
@@ -1479,7 +1479,7 @@
       "title_ja": "スキル作成者の向上：エージェントスキルのテスト、測定、洗練",
       "link": "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills",
       "published": "2026-03-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643905+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990682+00:00",
       "translated": true
     },
     {
@@ -1492,7 +1492,7 @@
       "title_ja": "陸軍長官ピート・ヘグセスのコメントに関する声明",
       "link": "https://www.anthropic.com/news/statement-comments-secretary-war",
       "published": "2026-02-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484362+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809089+00:00",
       "translated": true
     },
     {
@@ -1505,7 +1505,7 @@
       "title_ja": "陸軍省との協議についてのDario Amodeiの声明",
       "link": "https://www.anthropic.com/news/statement-department-of-war",
       "published": "2026-02-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484371+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809097+00:00",
       "translated": true
     },
     {
@@ -1518,7 +1518,7 @@
       "title_ja": "AnthropicがVerceptを買収し、Claudeのコンピューター使用能力を向上",
       "link": "https://www.anthropic.com/news/acquires-vercept",
       "published": "2026-02-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484377+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809103+00:00",
       "translated": true
     },
     {
@@ -1531,7 +1531,7 @@
       "title_ja": "Anthropicの責任あるスケーリングポリシー：バージョン3.0",
       "link": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
       "published": "2026-02-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484382+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809110+00:00",
       "translated": true
     },
     {
@@ -1544,7 +1544,7 @@
       "title_ja": "企業全体のチーム向けのコワーキングスペースとプラグイン",
       "link": "https://claude.com/blog/cowork-plugins-across-enterprise",
       "published": "2026-02-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643911+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990688+00:00",
       "translated": true
     },
     {
@@ -1557,7 +1557,7 @@
       "title_ja": "コワーキングスペースとファイナンス用プラグイン",
       "link": "https://claude.com/blog/cowork-plugins-finance",
       "published": "2026-02-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643917+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990694+00:00",
       "translated": true
     },
     {
@@ -1570,7 +1570,7 @@
       "title_ja": "蒸留攻撃の検出と防止",
       "link": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
       "published": "2026-02-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484388+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809116+00:00",
       "translated": true
     },
     {
@@ -1583,7 +1583,7 @@
       "title_ja": "AIがCOBOLモダナイゼーションのコスト障壁を打ち破るのにどのように役立つか",
       "link": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
       "published": "2026-02-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643922+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990700+00:00",
       "translated": true
     },
     {
@@ -1596,7 +1596,7 @@
       "title_ja": "フロンティアのサイバーセキュリティ機能をディフェンダーが利用できるようにする",
       "link": "https://www.anthropic.com/news/claude-code-security",
       "published": "2026-02-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484394+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809122+00:00",
       "translated": true
     },
     {
@@ -1609,7 +1609,7 @@
       "title_ja": "デスクトップのClaude Codeへの自動プレビュー、レビュー、マージの導入",
       "link": "https://claude.com/blog/preview-review-and-merge-with-claude-code",
       "published": "2026-02-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643928+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990706+00:00",
       "translated": true
     },
     {
@@ -1622,7 +1622,7 @@
       "title_ja": "AnthropicとInfosysは、通信およびその他の規制された業界向けにAIエージェントを構築するために協力しています",
       "link": "https://www.anthropic.com/news/anthropic-infosys",
       "published": "2026-02-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484400+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809128+00:00",
       "translated": true
     },
     {
@@ -1635,7 +1635,7 @@
       "title_ja": "クロード・ソネット4.6のご紹介",
       "link": "https://www.anthropic.com/news/claude-sonnet-4-6",
       "published": "2026-02-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484406+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809134+00:00",
       "translated": true
     },
     {
@@ -1648,7 +1648,7 @@
       "title_ja": "Anthropicとルワンダ政府が健康と教育におけるAIに関するMOUを締結",
       "link": "https://www.anthropic.com/news/anthropic-rwanda-mou",
       "published": "2026-02-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484411+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809140+00:00",
       "translated": true
     },
     {
@@ -1661,7 +1661,7 @@
       "title_ja": "動的フィルタリングでウェブ検索の精度と効率を向上",
       "link": "https://claude.com/blog/improved-web-search-with-dynamic-filtering",
       "published": "2026-02-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643934+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990713+00:00",
       "translated": true
     },
     {
@@ -1674,7 +1674,7 @@
       "title_ja": "Anthropicがバンガロールオフィスを開設し、インド全土で新しいパートナーシップを発表",
       "link": "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india",
       "published": "2026-02-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484417+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809146+00:00",
       "translated": true
     },
     {
@@ -1687,7 +1687,7 @@
       "title_ja": "Chris LiddellがAnthropicの取締役会に任命されました",
       "link": "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board",
       "published": "2026-02-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484423+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809152+00:00",
       "translated": true
     },
     {
@@ -1700,7 +1700,7 @@
       "title_ja": "AnthropicはCodePathと提携し、Claudeを米国最大の大学コンピューターサイエンスプログラムに参加させます",
       "link": "https://www.anthropic.com/news/anthropic-codepath-partnership",
       "published": "2026-02-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484431+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809160+00:00",
       "translated": true
     },
     {
@@ -1713,7 +1713,7 @@
       "title_ja": "Anthropic、パブリック・ファースト・アクションに2,000万$を寄付",
       "link": "https://www.anthropic.com/news/donate-public-first-action",
       "published": "2026-02-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484437+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809166+00:00",
       "translated": true
     },
     {
@@ -1726,7 +1726,7 @@
       "title_ja": "Anthropic、シリーズGの資金調達で300億$を調達、資金調達後の評価額は3800億$",
       "link": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
       "published": "2026-02-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484443+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809173+00:00",
       "translated": true
     },
     {
@@ -1739,7 +1739,7 @@
       "title_ja": "Claude Enterprise、セルフサービスが利用可能になりました",
       "link": "https://claude.com/blog/self-serve-enterprise",
       "published": "2026-02-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643940+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990719+00:00",
       "translated": true
     },
     {
@@ -1752,7 +1752,7 @@
       "title_ja": "当社のデータセンターからの電力価格の上昇をカバー",
       "link": "https://www.anthropic.com/news/covering-electricity-price-increases",
       "published": "2026-02-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484449+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809179+00:00",
       "translated": true
     },
     {
@@ -1765,7 +1765,7 @@
       "title_ja": "モデルの発売の背後：顧客がClaude Opus 4.6のテストを早期に発見したこと",
       "link": "https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early",
       "published": "2026-02-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643945+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990725+00:00",
       "translated": true
     },
     {
@@ -1778,7 +1778,7 @@
       "title_ja": "クロード・オーパス4.6のご紹介",
       "link": "https://www.anthropic.com/news/claude-opus-4-6",
       "published": "2026-02-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484455+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809185+00:00",
       "translated": true
     },
     {
@@ -1791,7 +1791,7 @@
       "title_ja": "並行したClaudesチームと一緒にCコンパイラを構築する",
       "link": "https://www.anthropic.com/engineering/building-c-compiler",
       "published": "2026-02-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526913+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852987+00:00",
       "translated": true
     },
     {
@@ -1804,7 +1804,7 @@
       "title_ja": "エージェントコーディングエヴァルにおけるインフラストラクチャーノイズの定量化",
       "link": "https://www.anthropic.com/engineering/infrastructure-noise",
       "published": "2026-02-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526919+00:00",
+      "fetched_at": "2026-05-30T13:05:20.852994+00:00",
       "translated": true
     },
     {
@@ -1817,7 +1817,7 @@
       "title_ja": "Claude Opusによるファイナンスの推進4.6",
       "link": "https://claude.com/blog/opus-4-6-finance",
       "published": "2026-02-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643951+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990731+00:00",
       "translated": true
     },
     {
@@ -1830,7 +1830,7 @@
       "title_ja": "クロードは考える空間です",
       "link": "https://www.anthropic.com/news/claude-is-a-space-to-think",
       "published": "2026-02-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484463+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809193+00:00",
       "translated": true
     },
     {
@@ -1843,7 +1843,7 @@
       "title_ja": "AppleのXcodeがClaude Agent SDKをサポートするようになりました",
       "link": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
       "published": "2026-02-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484469+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809199+00:00",
       "translated": true
     },
     {
@@ -1856,7 +1856,7 @@
       "title_ja": "科学的発見を加速するために、アレン研究所とハワードヒューズ医学研究所と提携",
       "link": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
       "published": "2026-02-02T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484475+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809205+00:00",
       "translated": true
     },
     {
@@ -1869,7 +1869,7 @@
       "title_ja": "プラグインでコワーキングスペースをカスタマイズする",
       "link": "https://claude.com/blog/cowork-plugins",
       "published": "2026-01-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643957+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990737+00:00",
       "translated": true
     },
     {
@@ -1882,7 +1882,7 @@
       "title_ja": "貢献指標によるClaude Codeの影響を理解する",
       "link": "https://claude.com/blog/contribution-metrics",
       "published": "2026-01-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643965+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990746+00:00",
       "translated": true
     },
     {
@@ -1895,7 +1895,7 @@
       "title_ja": "クロードのためのスキル構築の完全ガイド",
       "link": "https://claude.com/blog/complete-guide-to-building-skills-for-claude",
       "published": "2026-01-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643970+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990752+00:00",
       "translated": true
     },
     {
@@ -1908,7 +1908,7 @@
       "title_ja": "ServiceNowは、顧客アプリを強化し、社内の生産性を向上させるためにClaudeを選択します",
       "link": "https://www.anthropic.com/news/servicenow-anthropic-claude",
       "published": "2026-01-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484481+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809211+00:00",
       "translated": true
     },
     {
@@ -1921,7 +1921,7 @@
       "title_ja": "Claudeチームへのアップデート",
       "link": "https://claude.com/blog/claude-team-updates",
       "published": "2026-01-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643976+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990758+00:00",
       "translated": true
     },
     {
@@ -1934,7 +1934,7 @@
       "title_ja": "大手小売業者がAIパイロットを企業全体の変革に変える方法",
       "link": "https://claude.com/blog/how-leading-retailers-are-turning-ai-pilots-into-enterprise-wide-transformation",
       "published": "2026-01-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643982+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990764+00:00",
       "translated": true
     },
     {
@@ -1947,7 +1947,7 @@
       "title_ja": "Anthropicは、GOV.UKサービスにAI支援をもたらすために英国政府と提携しています",
       "link": "https://www.anthropic.com/news/gov-UK-partnership",
       "published": "2026-01-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484486+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809217+00:00",
       "translated": true
     },
     {
@@ -1960,7 +1960,7 @@
       "title_ja": "Anthropicの成長マーケティングチームがClaude Codeを使用して広告作成時間を30分から30秒に短縮した方法",
       "link": "https://claude.com/blog/how-anthropic-uses-claude-marketing",
       "published": "2026-01-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643988+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990770+00:00",
       "translated": true
     },
     {
@@ -1973,7 +1973,7 @@
       "title_ja": "お気に入りの作業ツールは、Claude内のインタラクティブコネクタになりました",
       "link": "https://claude.com/blog/interactive-tools-in-claude",
       "published": "2026-01-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643993+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990776+00:00",
       "translated": true
     },
     {
@@ -1986,7 +1986,7 @@
       "title_ja": "マルチエージェントシステムの構築：いつ、どのように使用するか",
       "link": "https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them",
       "published": "2026-01-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.643999+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990782+00:00",
       "translated": true
     },
     {
@@ -1999,7 +1999,7 @@
       "title_ja": "クロードの新憲法",
       "link": "https://www.anthropic.com/news/claude-new-constitution",
       "published": "2026-01-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484495+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809225+00:00",
       "translated": true
     },
     {
@@ -2012,7 +2012,7 @@
       "title_ja": "スキルを備えたエージェントの構築：専門的な作業のためのエージェントの装備",
       "link": "https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work",
       "published": "2026-01-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644005+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990788+00:00",
       "translated": true
     },
     {
@@ -2025,7 +2025,7 @@
       "title_ja": "AnthropicとTeach For Allは、教育者向けのグローバルAIトレーニングイニシアチブを開始します",
       "link": "https://www.anthropic.com/news/anthropic-teach-for-all",
       "published": "2026-01-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484500+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809231+00:00",
       "translated": true
     },
     {
@@ -2038,7 +2038,7 @@
       "title_ja": "Mariano - Florentino CuéllarがAnthropicの長期給付信託に任命されました",
       "link": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
       "published": "2026-01-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484506+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809237+00:00",
       "translated": true
     },
     {
@@ -2051,7 +2051,7 @@
       "title_ja": "AI耐性技術評価の設計",
       "link": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
       "published": "2026-01-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526925+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853000+00:00",
       "translated": true
     },
     {
@@ -2064,7 +2064,7 @@
       "title_ja": "2026年にソフトウェアがどのように構築されるかを定義する8つのトレンド",
       "link": "https://claude.com/blog/eight-trends-defining-how-software-gets-built-in-2026",
       "published": "2026-01-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644011+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990795+00:00",
       "translated": true
     },
     {
@@ -2077,7 +2077,7 @@
       "title_ja": "Anthropic、バンガロールのオフィス開設に先立ち、Irina Ghoseをインドのマネージングディレクターに任命",
       "link": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
       "published": "2026-01-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484512+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809244+00:00",
       "translated": true
     },
     {
@@ -2090,7 +2090,7 @@
       "title_ja": "科学者が研究と発見を加速するためにクロードをどのように使用しているか",
       "link": "https://www.anthropic.com/news/accelerating-scientific-research",
       "published": "2026-01-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484518+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809251+00:00",
       "translated": true
     },
     {
@@ -2103,7 +2103,7 @@
       "title_ja": "Labsのご紹介",
       "link": "https://www.anthropic.com/news/introducing-anthropic-labs",
       "published": "2026-01-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484523+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809257+00:00",
       "translated": true
     },
     {
@@ -2116,7 +2116,7 @@
       "title_ja": "ヘルスケアとライフサイエンスにおけるクロードの進歩",
       "link": "https://www.anthropic.com/news/healthcare-life-sciences",
       "published": "2026-01-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484529+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809262+00:00",
       "translated": true
     },
     {
@@ -2129,7 +2129,7 @@
       "title_ja": "AIエージェントのためのエヴァルの謎を解く",
       "link": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
       "published": "2026-01-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526931+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853007+00:00",
       "translated": true
     },
     {
@@ -2142,7 +2142,7 @@
       "title_ja": "カリフォルニア州のTransparency in Frontier AI Actのコンプライアンスフレームワークの共有",
       "link": "https://www.anthropic.com/news/compliance-framework-SB53",
       "published": "2025-12-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484535+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809269+00:00",
       "translated": true
     },
     {
@@ -2155,7 +2155,7 @@
       "title_ja": "スキルとMCPサーバーでクロードの能力を拡張",
       "link": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
       "published": "2025-12-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644017+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990801+00:00",
       "translated": true
     },
     {
@@ -2168,7 +2168,7 @@
       "title_ja": "ユーザーのウェルビーイングの保護",
       "link": "https://www.anthropic.com/news/protecting-well-being-of-users",
       "published": "2025-12-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484541+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809275+00:00",
       "translated": true
     },
     {
@@ -2181,7 +2181,7 @@
       "title_ja": "米国エネルギー省と協力して科学的発見の次の時代を開く",
       "link": "https://www.anthropic.com/news/genesis-mission-partnership",
       "published": "2025-12-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484547+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809282+00:00",
       "translated": true
     },
     {
@@ -2194,7 +2194,7 @@
       "title_ja": "PolicyDec 18, 2025 Project Vend: Phase two 6月に、サンフランシスコのオフィスのランチルームに、AIの店主が運営する小さな店舗を設立したことを明らかにしました。これは、複雑で現実世界のタスクでAIがどれだけうまく機能できるかを探求する自由形式の実験であるProject Vendの一部でした。私たちが前回書いてから、クロードのビジネスはどうなっていますか？",
       "link": "https://www.anthropic.com/research/project-vend-2",
       "published": "2025-12-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562556+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892484+00:00",
       "translated": true
     },
     {
@@ -2207,7 +2207,7 @@
       "title_ja": "組織、パートナー、エコシステムのスキル",
       "link": "https://claude.com/blog/organization-skills-and-directory",
       "published": "2025-12-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644025+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990809+00:00",
       "translated": true
     },
     {
@@ -2220,7 +2220,7 @@
       "title_ja": "クロードをより優れた電気技術者にする",
       "link": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
       "published": "2025-12-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644031+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990816+00:00",
       "translated": true
     },
     {
@@ -2233,7 +2233,7 @@
       "title_ja": "Claude Codeパワーユーザーカスタマイゼーション：フックの設定方法",
       "link": "https://claude.com/blog/how-to-configure-hooks",
       "published": "2025-12-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644037+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990822+00:00",
       "translated": true
     },
     {
@@ -2246,7 +2246,7 @@
       "title_ja": "アクセンチュアとAnthropicは、企業をAIパイロットから生産に移行するための複数年のパートナーシップを開始",
       "link": "https://www.anthropic.com/news/anthropic-accenture-partnership",
       "published": "2025-12-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484555+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809290+00:00",
       "translated": true
     },
     {
@@ -2259,7 +2259,7 @@
       "title_ja": "モデルコンテキストプロトコルの寄付とAgentic AI Foundationの確立",
       "link": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
       "published": "2025-12-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484563+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809298+00:00",
       "translated": true
     },
     {
@@ -2272,7 +2272,7 @@
       "title_ja": "2026年に企業がAIエージェントを構築する方法",
       "link": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
       "published": "2025-12-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644043+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990829+00:00",
       "translated": true
     },
     {
@@ -2285,7 +2285,7 @@
       "title_ja": "Claude CodeとSlack",
       "link": "https://claude.com/blog/claude-code-and-slack",
       "published": "2025-12-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644049+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990835+00:00",
       "translated": true
     },
     {
@@ -2298,7 +2298,7 @@
       "title_ja": "Anthropicの法務チームがClaudeと一緒に審査時間を数日から数時間に短縮した方法",
       "link": "https://claude.com/blog/how-anthropic-uses-claude-legal",
       "published": "2025-12-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644056+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990842+00:00",
       "translated": true
     },
     {
@@ -2311,7 +2311,7 @@
       "title_ja": "クロード・コードが10億$のマイルストーンに達したため、AnthropicはBUNを買収",
       "link": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
       "published": "2025-12-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484569+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809304+00:00",
       "translated": true
     },
     {
@@ -2324,7 +2324,7 @@
       "title_ja": "SnowflakeとAnthropicは、エージェントAIをグローバル企業に提供するために2億$のパートナーシップを発表",
       "link": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
       "published": "2025-12-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484575+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809310+00:00",
       "translated": true
     },
     {
@@ -2337,7 +2337,7 @@
       "title_ja": "非営利団体のためのClaudeさん",
       "link": "https://www.anthropic.com/news/claude-for-nonprofits",
       "published": "2025-12-02T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484581+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809317+00:00",
       "translated": true
     },
     {
@@ -2350,7 +2350,7 @@
       "title_ja": "ソフトウェア開発のためにエージェントコーディングに移行する主な利点は何ですか？",
       "link": "https://claude.com/blog/key-benefits-transitioning-agentic-coding",
       "published": "2025-12-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644062+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990848+00:00",
       "translated": true
     },
     {
@@ -2363,7 +2363,7 @@
       "title_ja": "長時間作動する薬剤のための効果的なハーネス",
       "link": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
       "published": "2025-11-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526937+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853013+00:00",
       "translated": true
     },
     {
@@ -2376,7 +2376,7 @@
       "title_ja": "CLAUDE.mdファイルの使用：コードベースのクロードコードのカスタマイズ",
       "link": "https://claude.com/blog/using-claude-md-files",
       "published": "2025-11-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644068+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990854+00:00",
       "translated": true
     },
     {
@@ -2389,7 +2389,7 @@
       "title_ja": "Claude Opus 4.5のご紹介",
       "link": "https://www.anthropic.com/news/claude-opus-4-5",
       "published": "2025-11-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484587+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809323+00:00",
       "translated": true
     },
     {
@@ -2402,7 +2402,7 @@
       "title_ja": "Claude開発者プラットフォームでの高度なツール使用のご紹介",
       "link": "https://www.anthropic.com/engineering/advanced-tool-use",
       "published": "2025-11-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526943+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853019+00:00",
       "translated": true
     },
     {
@@ -2415,7 +2415,7 @@
       "title_ja": "クロードの新機能：クロードを思考力のあるパートナーに変える",
       "link": "https://claude.com/blog/your-thinking-partner",
       "published": "2025-11-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644074+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990861+00:00",
       "translated": true
     },
     {
@@ -2428,7 +2428,7 @@
       "title_ja": "スキルの作成方法：主なステップ、制限事項、例",
       "link": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples",
       "published": "2025-11-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644080+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990867+00:00",
       "translated": true
     },
     {
@@ -2441,7 +2441,7 @@
       "title_ja": "Anthropicはルワンダ政府とALXと提携し、アフリカ全土の何十万人もの学習者にAI教育を提供しています",
       "link": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education",
       "published": "2025-11-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484593+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809329+00:00",
       "translated": true
     },
     {
@@ -2454,7 +2454,7 @@
       "title_ja": "Microsoft、NVIDIA、Anthropicが戦略的パートナーシップを発表",
       "link": "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships",
       "published": "2025-11-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484598+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809335+00:00",
       "translated": true
     },
     {
@@ -2467,7 +2467,7 @@
       "title_ja": "ClaudeがMicrosoft FoundryとMicrosoft 365 Copilotで利用可能になりました",
       "link": "https://www.anthropic.com/news/claude-in-microsoft-foundry",
       "published": "2025-11-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484604+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809341+00:00",
       "translated": true
     },
     {
@@ -2480,7 +2480,7 @@
       "title_ja": "3つのYCスタートアップがClaude Codeでどのように会社を構築したか",
       "link": "https://claude.com/blog/building-companies-with-claude-code",
       "published": "2025-11-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644088+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990875+00:00",
       "translated": true
     },
     {
@@ -2493,7 +2493,7 @@
       "title_ja": "Claude開発者プラットフォーム上の構造化された出力",
       "link": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
       "published": "2025-11-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644094+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990882+00:00",
       "translated": true
     },
     {
@@ -2506,7 +2506,7 @@
       "title_ja": "クロードの政治的偏見の測定",
       "link": "https://www.anthropic.com/news/political-even-handedness",
       "published": "2025-11-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484610+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809347+00:00",
       "translated": true
     },
     {
@@ -2519,7 +2519,7 @@
       "title_ja": "メリーランド州は、住民により良いサービスを提供するためにAnthropicと提携しています",
       "link": "https://www.anthropic.com/news/maryland-partnership",
       "published": "2025-11-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484620+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809357+00:00",
       "translated": true
     },
     {
@@ -2532,7 +2532,7 @@
       "title_ja": "最初に報告されたAI主導のサイバースパイ活動の妨害",
       "link": "https://www.anthropic.com/news/disrupting-AI-espionage",
       "published": "2025-11-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484626+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809363+00:00",
       "translated": true
     },
     {
@@ -2545,7 +2545,7 @@
       "title_ja": "スキルの説明：スキルとプロンプト、プロジェクト、MCP、サブエージェントとの比較",
       "link": "https://claude.com/blog/skills-explained",
       "published": "2025-11-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644100+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990888+00:00",
       "translated": true
     },
     {
@@ -2558,7 +2558,7 @@
       "title_ja": "Anthropic、アメリカのAIインフラに500億$を投資",
       "link": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
       "published": "2025-11-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484634+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809371+00:00",
       "translated": true
     },
     {
@@ -2571,7 +2571,7 @@
       "title_ja": "スキルによるフロントエンド設計の改善",
       "link": "https://claude.com/blog/improving-frontend-design-through-skills",
       "published": "2025-11-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644106+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990894+00:00",
       "translated": true
     },
     {
@@ -2584,7 +2584,7 @@
       "title_ja": "迅速なエンジニアリングのためのベストプラクティス",
       "link": "https://claude.com/blog/best-practices-for-prompt-engineering",
       "published": "2025-11-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644112+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990901+00:00",
       "translated": true
     },
     {
@@ -2597,7 +2597,7 @@
       "title_ja": "パリとミュンヘンの新しいオフィスがAnthropicのヨーロッパでのプレゼンスを拡大",
       "link": "https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence",
       "published": "2025-11-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484640+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809377+00:00",
       "translated": true
     },
     {
@@ -2610,7 +2610,7 @@
       "title_ja": "英国とヨーロッパでの人類経済先物プログラムの開始",
       "link": "https://www.anthropic.com/news/economic-futures-uk-europe",
       "published": "2025-11-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484646+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809383+00:00",
       "translated": true
     },
     {
@@ -2623,7 +2623,7 @@
       "title_ja": "Cognizantは、350,000人の従業員にClaudeを提供し、エンタープライズAIの採用と内部トランスフォーメーションを加速します",
       "link": "https://www.anthropic.com/news/cognizant-partnership",
       "published": "2025-11-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484652+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809389+00:00",
       "translated": true
     },
     {
@@ -2636,7 +2636,7 @@
       "title_ja": "Anthropicとアイスランドが世界初の国家AI教育パイロットの1つを発表",
       "link": "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots",
       "published": "2025-11-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484657+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809395+00:00",
       "translated": true
     },
     {
@@ -2649,7 +2649,7 @@
       "title_ja": "MCPによるコード実行：より効率的なエージェントの構築",
       "link": "https://www.anthropic.com/engineering/code-execution-with-mcp",
       "published": "2025-11-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526948+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853025+00:00",
       "translated": true
     },
     {
@@ -2662,7 +2662,7 @@
       "title_ja": "スタートアップ向けAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-for-startups",
       "published": "2025-11-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644118+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990907+00:00",
       "translated": true
     },
     {
@@ -2675,7 +2675,7 @@
       "title_ja": "モデルコンテキストプロトコルとは何ですか？ AIをあなたの世界に接続",
       "link": "https://claude.com/blog/what-is-model-context-protocol",
       "published": "2025-10-31T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644123+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990914+00:00",
       "translated": true
     },
     {
@@ -2688,7 +2688,7 @@
       "title_ja": "BrexがClaude Codeでコードの品質と生産性を向上させる方法",
       "link": "https://claude.com/blog/how-brex-improves-code-quality-and-productivity-with-claude-code",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644129+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990920+00:00",
       "translated": true
     },
     {
@@ -2701,7 +2701,7 @@
       "title_ja": "ヘルスケアとライフサイエンスのためのAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-in-healthcare-and-life-sciences",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644141+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990932+00:00",
       "translated": true
     },
     {
@@ -2714,7 +2714,7 @@
       "title_ja": "エージェントコーディング入門",
       "link": "https://claude.com/blog/introduction-to-agentic-coding",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644149+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990940+00:00",
       "translated": true
     },
     {
@@ -2727,7 +2727,7 @@
       "title_ja": "金融サービスのためのAIエージェントの構築",
       "link": "https://claude.com/blog/building-ai-agents-in-financial-services",
       "published": "2025-10-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644135+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990926+00:00",
       "translated": true
     },
     {
@@ -2740,7 +2740,7 @@
       "title_ja": "Anthropic、東京オフィスを正式に開設、日本AI安全研究所と協力覚書を締結",
       "link": "https://www.anthropic.com/news/opening-our-tokyo-office",
       "published": "2025-10-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484664+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809402+00:00",
       "translated": true
     },
     {
@@ -2753,7 +2753,7 @@
       "title_ja": "Claudeでソフトウェアのバグをすばやく修正",
       "link": "https://claude.com/blog/fix-software-bugs-faster-with-claude",
       "published": "2025-10-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644155+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990946+00:00",
       "translated": true
     },
     {
@@ -2766,7 +2766,7 @@
       "title_ja": "金融サービスのためのClaudeの推進",
       "link": "https://www.anthropic.com/news/advancing-claude-for-financial-services",
       "published": "2025-10-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484670+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809408+00:00",
       "translated": true
     },
     {
@@ -2779,7 +2779,7 @@
       "title_ja": "APIをシームレスに統合する方法",
       "link": "https://claude.com/blog/integrate-apis-seamlessly",
       "published": "2025-10-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644161+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990952+00:00",
       "translated": true
     },
     {
@@ -2792,7 +2792,7 @@
       "title_ja": "Google Cloud TPUとサービスの利用拡大",
       "link": "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services",
       "published": "2025-10-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484676+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809414+00:00",
       "translated": true
     },
     {
@@ -2805,7 +2805,7 @@
       "title_ja": "ソウルは、国際的な成長を続ける中で、Anthropicのアジア太平洋における3番目のオフィスとなりました",
       "link": "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific",
       "published": "2025-10-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484684+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809422+00:00",
       "translated": true
     },
     {
@@ -2818,7 +2818,7 @@
       "title_ja": "アメリカのAIリーダーシップに対するAnthropicのコミットメントに関するDario Amodeiの声明",
       "link": "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership",
       "published": "2025-10-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484690+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809429+00:00",
       "translated": true
     },
     {
@@ -2831,7 +2831,7 @@
       "title_ja": "クロード・フォー・ライフサイエンス",
       "link": "https://www.anthropic.com/news/claude-for-life-sciences",
       "published": "2025-10-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484696+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809435+00:00",
       "translated": true
     },
     {
@@ -2844,7 +2844,7 @@
       "title_ja": "許可プロンプトを超えて： Claude Codeをより安全で自律的にする",
       "link": "https://www.anthropic.com/engineering/claude-code-sandboxing",
       "published": "2025-10-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526954+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853031+00:00",
       "translated": true
     },
     {
@@ -2857,7 +2857,7 @@
       "title_ja": "ウェブ上のClaude Code",
       "link": "https://claude.com/blog/claude-code-on-the-web",
       "published": "2025-10-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644167+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990959+00:00",
       "translated": true
     },
     {
@@ -2870,7 +2870,7 @@
       "title_ja": "エージェントスキルで現実世界のエージェントを装備",
       "link": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
       "published": "2025-10-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526960+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853038+00:00",
       "translated": true
     },
     {
@@ -2883,7 +2883,7 @@
       "title_ja": "エージェントスキルのご紹介",
       "link": "https://claude.com/blog/skills",
       "published": "2025-10-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644172+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990965+00:00",
       "translated": true
     },
     {
@@ -2896,7 +2896,7 @@
       "title_ja": "クロードとあなたの生産性プラットフォーム",
       "link": "https://claude.com/blog/productivity-platforms",
       "published": "2025-10-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644178+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990971+00:00",
       "translated": true
     },
     {
@@ -2909,7 +2909,7 @@
       "title_ja": "クロード・ハイク4.5のご紹介",
       "link": "https://www.anthropic.com/news/claude-haiku-4-5",
       "published": "2025-10-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484702+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809441+00:00",
       "translated": true
     },
     {
@@ -2922,7 +2922,7 @@
       "title_ja": "エンジニアリング組織全体でエージェントコーディングをスケーリングする方法",
       "link": "https://claude.com/blog/scaling-agentic-coding",
       "published": "2025-10-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644184+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990977+00:00",
       "translated": true
     },
     {
@@ -2935,7 +2935,7 @@
       "title_ja": "AnthropicとSalesforceはパートナーシップを拡大し、規制された業界にClaudeをもたらします",
       "link": "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership",
       "published": "2025-10-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484708+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809447+00:00",
       "translated": true
     },
     {
@@ -2948,7 +2948,7 @@
       "title_ja": "レスポンシブWebレイアウトを構築する",
       "link": "https://claude.com/blog/build-responsive-web-layouts",
       "published": "2025-10-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644190+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990984+00:00",
       "translated": true
     },
     {
@@ -2961,7 +2961,7 @@
       "title_ja": "プラグインでクロードコードをカスタマイズする",
       "link": "https://claude.com/blog/claude-code-plugins",
       "published": "2025-10-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644195+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990990+00:00",
       "translated": true
     },
     {
@@ -2974,7 +2974,7 @@
       "title_ja": "許可プロンプトを超えて： Claude Codeをより安全で自律的にする",
       "link": "https://claude.com/blog/beyond-permission-prompts-making-claude-code-more-secure-and-autonomous",
       "published": "2025-10-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644201+00:00",
+      "fetched_at": "2026-05-30T13:05:20.990996+00:00",
       "translated": true
     },
     {
@@ -2987,7 +2987,7 @@
       "title_ja": "Rahul PatilがAnthropicの最高技術責任者に就任",
       "link": "https://www.anthropic.com/news/rahul-patil-joins-anthropic",
       "published": "2025-10-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484713+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809453+00:00",
       "translated": true
     },
     {
@@ -3000,7 +3000,7 @@
       "title_ja": "2つ目のアジア太平洋オフィスでグローバル事業をインドに拡大",
       "link": "https://www.anthropic.com/news/expanding-global-operations-to-india",
       "published": "2025-10-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484719+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809459+00:00",
       "translated": true
     },
     {
@@ -3013,7 +3013,7 @@
       "title_ja": "デロイトは、グローバルネットワーク全体で47万人にClaudeを提供します",
       "link": "https://www.anthropic.com/news/deloitte-anthropic-partnership",
       "published": "2025-10-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484725+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809465+00:00",
       "translated": true
     },
     {
@@ -3026,7 +3026,7 @@
       "title_ja": "コードパフォーマンスを迅速に最適化",
       "link": "https://claude.com/blog/optimize-code-performance-quickly",
       "published": "2025-10-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644210+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991005+00:00",
       "translated": true
     },
     {
@@ -3039,7 +3039,7 @@
       "title_ja": "クロードとスラック",
       "link": "https://claude.com/blog/claude-and-slack",
       "published": "2025-10-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644215+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991011+00:00",
       "translated": true
     },
     {
@@ -3052,7 +3052,7 @@
       "title_ja": "企業がClaudeとAIトランスフォーメーションをどのように推進しているか",
       "link": "https://claude.com/blog/driving-ai-transformation-with-claude",
       "published": "2025-10-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644221+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991017+00:00",
       "translated": true
     },
     {
@@ -3065,7 +3065,7 @@
       "title_ja": "クロード・ソネット4.5のご紹介",
       "link": "https://www.anthropic.com/news/claude-sonnet-4-5",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484731+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809472+00:00",
       "translated": true
     },
     {
@@ -3078,7 +3078,7 @@
       "title_ja": "クロードコードがより自律的に作業できるようにする",
       "link": "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484736+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809478+00:00",
       "translated": true
     },
     {
@@ -3091,7 +3091,7 @@
       "title_ja": "AIエージェントのための効果的なコンテキストエンジニアリング",
       "link": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526966+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853044+00:00",
       "translated": true
     },
     {
@@ -3104,7 +3104,7 @@
       "title_ja": "Claude開発者プラットフォームでのコンテキストの管理",
       "link": "https://claude.com/blog/context-management",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644227+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991023+00:00",
       "translated": true
     },
     {
@@ -3117,7 +3117,7 @@
       "title_ja": "Claude Agent SDKを使用したエージェントの構築",
       "link": "https://claude.com/blog/building-agents-with-the-claude-agent-sdk",
       "published": "2025-09-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644233+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991030+00:00",
       "translated": true
     },
     {
@@ -3130,7 +3130,7 @@
       "title_ja": "AnthropicはエンタープライズAIのグローバルリーダーシップを拡大し、Chris Ciauriをインターナショナルのマネージングディレクターに任命",
       "link": "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of",
       "published": "2025-09-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484745+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809486+00:00",
       "translated": true
     },
     {
@@ -3143,7 +3143,7 @@
       "title_ja": "ClaudeがMicrosoft 365 Copilotで利用可能になりました",
       "link": "https://claude.com/blog/claude-now-available-in-microsoft-365-copilot",
       "published": "2025-09-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644239+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991036+00:00",
       "translated": true
     },
     {
@@ -3156,7 +3156,7 @@
       "title_ja": "最近の3つの問題のポストモーテム",
       "link": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
       "published": "2025-09-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526972+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853050+00:00",
       "translated": true
     },
     {
@@ -3169,7 +3169,7 @@
       "title_ja": "ClaudeがXcodeで一般公開されました",
       "link": "https://www.anthropic.com/news/claude-in-xcode",
       "published": "2025-09-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484750+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809492+00:00",
       "translated": true
     },
     {
@@ -3182,7 +3182,7 @@
       "title_ja": "米国CAISIおよび英国AISIとの連携によるセーフガードの強化",
       "link": "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi",
       "published": "2025-09-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484756+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809498+00:00",
       "translated": true
     },
     {
@@ -3195,7 +3195,7 @@
       "title_ja": "エージェントのための効果的なツールを書く—エージェントと一緒に",
       "link": "https://www.anthropic.com/engineering/writing-tools-for-agents",
       "published": "2025-09-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526979+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853056+00:00",
       "translated": true
     },
     {
@@ -3208,7 +3208,7 @@
       "title_ja": "クロードに思い出を",
       "link": "https://claude.com/blog/memory",
       "published": "2025-09-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644245+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991042+00:00",
       "translated": true
     },
     {
@@ -3221,7 +3221,7 @@
       "title_ja": "Claudeはファイルを作成および編集できるようになりました",
       "link": "https://claude.com/blog/create-files",
       "published": "2025-09-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644251+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991048+00:00",
       "translated": true
     },
     {
@@ -3234,7 +3234,7 @@
       "title_ja": "AnthropicはSB 53を支持しています",
       "link": "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53",
       "published": "2025-09-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484762+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809505+00:00",
       "translated": true
     },
     {
@@ -3247,7 +3247,7 @@
       "title_ja": "Anthropic、アメリカの若者に対するホワイトハウスの誓約に署名： AI教育への投資",
       "link": "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education",
       "published": "2025-09-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484768+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809510+00:00",
       "translated": true
     },
     {
@@ -3260,7 +3260,7 @@
       "title_ja": "サポートされていない地域への販売制限の更新",
       "link": "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions",
       "published": "2025-09-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484774+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809547+00:00",
       "translated": true
     },
     {
@@ -3273,7 +3273,7 @@
       "title_ja": "Anthropicは、$ 130 BシリーズFを$ 183 Bのポストマネー評価で調達",
       "link": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
       "published": "2025-09-02T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484782+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809570+00:00",
       "translated": true
     },
     {
@@ -3286,7 +3286,7 @@
       "title_ja": "消費者規約とプライバシーポリシーの更新",
       "link": "https://www.anthropic.com/news/updates-to-our-consumer-terms",
       "published": "2025-08-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484787+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809581+00:00",
       "translated": true
     },
     {
@@ -3299,7 +3299,7 @@
       "title_ja": "Anthropic Education Report ：教育者がClaudeをどのように使用するか",
       "link": "https://www.anthropic.com/news/anthropic-education-report-how-educators-use-claude",
       "published": "2025-08-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484793+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809588+00:00",
       "translated": true
     },
     {
@@ -3312,7 +3312,7 @@
       "title_ja": "Anthropic National Security and Public Sector Advisory Councilのご紹介",
       "link": "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council",
       "published": "2025-08-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484799+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809594+00:00",
       "translated": true
     },
     {
@@ -3325,7 +3325,7 @@
       "title_ja": "AIの不正使用の検出と対策： 2025年8月",
       "link": "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025",
       "published": "2025-08-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484812+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809603+00:00",
       "translated": true
     },
     {
@@ -3338,7 +3338,7 @@
       "title_ja": "クロムでクロードを操縦しよう",
       "link": "https://claude.com/blog/claude-for-chrome",
       "published": "2025-08-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644259+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991056+00:00",
       "translated": true
     },
     {
@@ -3351,7 +3351,7 @@
       "title_ja": "官民パートナーシップを通じたAIの核保障措置の開発",
       "link": "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership",
       "published": "2025-08-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484817+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809609+00:00",
       "translated": true
     },
     {
@@ -3364,7 +3364,7 @@
       "title_ja": "Anthropic、高等教育諮問委員会とAI Fluencyコースを開始",
       "link": "https://www.anthropic.com/news/anthropic-higher-education-initiatives",
       "published": "2025-08-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484823+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809615+00:00",
       "translated": true
     },
     {
@@ -3377,7 +3377,7 @@
       "title_ja": "Claude Codeとビジネスプランの新しい管理者コントロール",
       "link": "https://www.anthropic.com/news/claude-code-on-team-and-enterprise",
       "published": "2025-08-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484843+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809621+00:00",
       "translated": true
     },
     {
@@ -3390,7 +3390,7 @@
       "title_ja": "Claude Codeとビジネスプランの新しい管理者コントロール",
       "link": "https://claude.com/blog/claude-code-and-new-admin-controls-for-business-plans",
       "published": "2025-08-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644265+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991062+00:00",
       "translated": true
     },
     {
@@ -3403,7 +3403,7 @@
       "title_ja": "利用ポリシーの更新",
       "link": "https://www.anthropic.com/news/usage-policy-update",
       "published": "2025-08-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484849+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809627+00:00",
       "translated": true
     },
     {
@@ -3416,7 +3416,7 @@
       "title_ja": "Claudeとの迅速なキャッシュ",
       "link": "https://claude.com/blog/prompt-caching",
       "published": "2025-08-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644273+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991071+00:00",
       "translated": true
     },
     {
@@ -3429,7 +3429,7 @@
       "title_ja": "米国政府の3つの支部すべてにわたってクロードへのアクセスを拡大",
       "link": "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government",
       "published": "2025-08-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484855+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809633+00:00",
       "translated": true
     },
     {
@@ -3442,7 +3442,7 @@
       "title_ja": "クロードのための建物の安全対策",
       "link": "https://www.anthropic.com/news/building-safeguards-for-claude",
       "published": "2025-08-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484861+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809639+00:00",
       "translated": true
     },
     {
@@ -3455,7 +3455,7 @@
       "title_ja": "クロードソネット4は、コンテキストの100万トークンをサポートするようになりました",
       "link": "https://claude.com/blog/1m-context",
       "published": "2025-08-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644279+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991077+00:00",
       "translated": true
     },
     {
@@ -3468,7 +3468,7 @@
       "title_ja": "Anthropic、東条秀俊を日本代表に任命し、採用計画を発表",
       "link": "https://www.anthropic.com/news/head-of-japan-hiring-plans",
       "published": "2025-08-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484867+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809645+00:00",
       "translated": true
     },
     {
@@ -3481,7 +3481,7 @@
       "title_ja": "Claude Codeでセキュリティレビューを自動化",
       "link": "https://claude.com/blog/automate-security-reviews-with-claude-code",
       "published": "2025-08-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644284+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991083+00:00",
       "translated": true
     },
     {
@@ -3494,7 +3494,7 @@
       "title_ja": "連邦政府の省庁は、GSAスケジュールを通じてクロードを購入できるようになりました",
       "link": "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule",
       "published": "2025-08-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484873+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809651+00:00",
       "translated": true
     },
     {
@@ -3507,7 +3507,7 @@
       "title_ja": "クロード・オーパス4.1",
       "link": "https://www.anthropic.com/news/claude-opus-4-1",
       "published": "2025-08-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484879+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809658+00:00",
       "translated": true
     },
     {
@@ -3520,7 +3520,7 @@
       "title_ja": "安全で信頼できるエージェントを開発するための枠組み",
       "link": "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents",
       "published": "2025-08-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484887+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809673+00:00",
       "translated": true
     },
     {
@@ -3533,7 +3533,7 @@
       "title_ja": "Anthropic、ヘルスケアの相互運用性を向上させるためのCMSヘルステックエコシステムの誓約に署名",
       "link": "https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability",
       "published": "2025-07-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484894+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809679+00:00",
       "translated": true
     },
     {
@@ -3546,7 +3546,7 @@
       "title_ja": "AIを搭載したアプリを構築してClaudeと共有する",
       "link": "https://claude.com/blog/claude-powered-artifacts",
       "published": "2025-07-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644290+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991089+00:00",
       "translated": true
     },
     {
@@ -3559,7 +3559,7 @@
       "title_ja": "AnthropicチームがClaude Codeを使用する方法",
       "link": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
       "published": "2025-07-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644296+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991095+00:00",
       "translated": true
     },
     {
@@ -3572,7 +3572,7 @@
       "title_ja": "Anthropicは、シカゴ大学のベッカー・フリードマン研究所とAI経済研究で提携しています",
       "link": "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic",
       "published": "2025-07-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484899+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809685+00:00",
       "translated": true
     },
     {
@@ -3585,7 +3585,7 @@
       "title_ja": "アメリカのAI行動計画に関する考察",
       "link": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
       "published": "2025-07-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484905+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809691+00:00",
       "translated": true
     },
     {
@@ -3598,7 +3598,7 @@
       "title_ja": "AnthropicがEU行動規範に署名",
       "link": "https://www.anthropic.com/news/eu-code-practice",
       "published": "2025-07-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484911+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809697+00:00",
       "translated": true
     },
     {
@@ -3611,7 +3611,7 @@
       "title_ja": "アメリカでAIを構築する",
       "link": "https://www.anthropic.com/news/build-ai-in-america",
       "published": "2025-07-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484917+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809703+00:00",
       "translated": true
     },
     {
@@ -3624,7 +3624,7 @@
       "title_ja": "アメリカのAIの未来を確保するためのエネルギーへの投資",
       "link": "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future",
       "published": "2025-07-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484923+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809708+00:00",
       "translated": true
     },
     {
@@ -3637,7 +3637,7 @@
       "title_ja": "クロード・フォー・ファイナンシャル・サービス",
       "link": "https://www.anthropic.com/news/claude-for-financial-services",
       "published": "2025-07-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484929+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809714+00:00",
       "translated": true
     },
     {
@@ -3650,7 +3650,7 @@
       "title_ja": "ポール・スミスが最高商務責任者としてAnthropicに入社",
       "link": "https://www.anthropic.com/news/paul-smith-to-join-anthropic",
       "published": "2025-07-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484935+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809720+00:00",
       "translated": true
     },
     {
@@ -3663,7 +3663,7 @@
       "title_ja": "Anthropicと国防総省は、防衛作戦における責任あるAIを推進します",
       "link": "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations",
       "published": "2025-07-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484941+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809727+00:00",
       "translated": true
     },
     {
@@ -3676,7 +3676,7 @@
       "title_ja": "Claudeと連携するツールを発見する",
       "link": "https://claude.com/blog/connectors-directory",
       "published": "2025-07-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644302+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991101+00:00",
       "translated": true
     },
     {
@@ -3689,7 +3689,7 @@
       "title_ja": "ローレンス・リバモア国立研究所がクロード・フォー・エンタープライズを拡張し、科学者と研究者に力を与える",
       "link": "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and",
       "published": "2025-07-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484950+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809735+00:00",
       "translated": true
     },
     {
@@ -3702,7 +3702,7 @@
       "title_ja": "教育のためのクロードの進歩",
       "link": "https://www.anthropic.com/news/advancing-claude-for-education",
       "published": "2025-07-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484956+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809742+00:00",
       "translated": true
     },
     {
@@ -3715,7 +3715,7 @@
       "title_ja": "フロンティアAIの透明性の必要性",
       "link": "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai",
       "published": "2025-07-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484964+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809750+00:00",
       "translated": true
     },
     {
@@ -3728,7 +3728,7 @@
       "title_ja": "サポート、アドバイス、仲間作りのためにクロードをどのように使うか",
       "link": "https://www.anthropic.com/news/how-people-use-claude-for-support-advice-and-companionship",
       "published": "2025-06-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484970+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809757+00:00",
       "translated": true
     },
     {
@@ -3741,7 +3741,7 @@
       "title_ja": "Anthropic Economic Futures Programのご紹介",
       "link": "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program",
       "published": "2025-06-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484979+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809765+00:00",
       "translated": true
     },
     {
@@ -3754,7 +3754,7 @@
       "title_ja": "デスクトップ拡張機能： Claude Desktop用のワンクリックMCPサーバーインストール",
       "link": "https://www.anthropic.com/engineering/desktop-extensions",
       "published": "2025-06-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526985+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853063+00:00",
       "translated": true
     },
     {
@@ -3767,7 +3767,7 @@
       "title_ja": "アイデアをインタラクティブなAIアプリに変換",
       "link": "https://claude.com/blog/build-artifacts",
       "published": "2025-06-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644307+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991107+00:00",
       "translated": true
     },
     {
@@ -3780,7 +3780,7 @@
       "title_ja": "Anthropic APIの引用のご紹介",
       "link": "https://claude.com/blog/introducing-citations-api",
       "published": "2025-06-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644313+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991113+00:00",
       "translated": true
     },
     {
@@ -3793,7 +3793,7 @@
       "title_ja": "Claude CodeでのリモートMCPサポート",
       "link": "https://claude.com/blog/claude-code-remote-mcp",
       "published": "2025-06-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644319+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991119+00:00",
       "translated": true
     },
     {
@@ -3806,7 +3806,7 @@
       "title_ja": "マルチエージェントリサーチシステムの構築方法",
       "link": "https://www.anthropic.com/engineering/multi-agent-research-system",
       "published": "2025-06-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526990+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853069+00:00",
       "translated": true
     },
     {
@@ -3819,7 +3819,7 @@
       "title_ja": "Amazon BedrockのClaude ： FedRAMP HighおよびDoD IL 4/5ワークロードでの使用が承認されました",
       "link": "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high",
       "published": "2025-06-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484984+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809772+00:00",
       "translated": true
     },
     {
@@ -3832,7 +3832,7 @@
       "title_ja": "国家安全保障の専門家リチャード・フォンテンがAnthropicの長期給付信託に任命されました",
       "link": "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust",
       "published": "2025-06-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484990+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809778+00:00",
       "translated": true
     },
     {
@@ -3845,7 +3845,7 @@
       "title_ja": "米国の国家安全保障顧客向けClaude Govモデル",
       "link": "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers",
       "published": "2025-06-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484996+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809784+00:00",
       "translated": true
     },
     {
@@ -3858,7 +3858,7 @@
       "title_ja": "リード・ヘイスティングスがAnthropicの取締役会に任命されました",
       "link": "https://www.anthropic.com/news/reed-hastings",
       "published": "2025-05-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485002+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809790+00:00",
       "translated": true
     },
     {
@@ -3871,7 +3871,7 @@
       "title_ja": "クロードを紹介する4",
       "link": "https://www.anthropic.com/news/claude-4",
       "published": "2025-05-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485008+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809796+00:00",
       "translated": true
     },
     {
@@ -3884,7 +3884,7 @@
       "title_ja": "AI安全レベル3保護の有効化",
       "link": "https://www.anthropic.com/news/activating-asl3-protections",
       "published": "2025-05-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485017+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809804+00:00",
       "translated": true
     },
     {
@@ -3897,7 +3897,7 @@
       "title_ja": "Anthropic APIでエージェントを構築するための新機能",
       "link": "https://claude.com/blog/agent-capabilities-api",
       "published": "2025-05-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644324+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991125+00:00",
       "translated": true
     },
     {
@@ -3910,7 +3910,7 @@
       "title_ja": "新しいバグ報奨金プログラムによる安全防御のテスト",
       "link": "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program",
       "published": "2025-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485023+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809810+00:00",
       "translated": true
     },
     {
@@ -3923,7 +3923,7 @@
       "title_ja": "Anthropic APIでのウェブ検索のご紹介",
       "link": "https://claude.com/blog/web-search-api",
       "published": "2025-05-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644333+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991133+00:00",
       "translated": true
     },
     {
@@ -3936,7 +3936,7 @@
       "title_ja": "AnthropicのAI for Scienceプログラムのご紹介",
       "link": "https://www.anthropic.com/news/ai-for-science-program",
       "published": "2025-05-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485029+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809816+00:00",
       "translated": true
     },
     {
@@ -3949,7 +3949,7 @@
       "title_ja": "クロードがあなたの世界とつながることができるようになりました",
       "link": "https://claude.com/blog/integrations",
       "published": "2025-05-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644338+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991139+00:00",
       "translated": true
     },
     {
@@ -3962,7 +3962,7 @@
       "title_ja": "米国のコンピューティング優位性の確保：拡散ルールに関するAnthropicの立場",
       "link": "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule",
       "published": "2025-04-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485035+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809822+00:00",
       "translated": true
     },
     {
@@ -3975,7 +3975,7 @@
       "title_ja": "人類経済諮問委員会のご紹介",
       "link": "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council",
       "published": "2025-04-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485041+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809829+00:00",
       "translated": true
     },
     {
@@ -3988,7 +3988,7 @@
       "title_ja": "クロードの悪意のある使用の検出と対抗： 2025年3月",
       "link": "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025",
       "published": "2025-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485049+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809837+00:00",
       "translated": true
     },
     {
@@ -4001,7 +4001,7 @@
       "title_ja": "AIの害を理解し対処するための私たちのアプローチ",
       "link": "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms",
       "published": "2025-04-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485055+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809843+00:00",
       "translated": true
     },
     {
@@ -4014,7 +4014,7 @@
       "title_ja": "クロードコード：エージェントコーディングのベストプラクティス",
       "link": "https://www.anthropic.com/engineering/claude-code-best-practices",
       "published": "2025-04-18T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.526996+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853075+00:00",
       "translated": true
     },
     {
@@ -4027,7 +4027,7 @@
       "title_ja": "クロードは新しい場所に研究を連れて行く",
       "link": "https://claude.com/blog/research",
       "published": "2025-04-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644344+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991145+00:00",
       "translated": true
     },
     {
@@ -4040,7 +4040,7 @@
       "title_ja": "Maxプランのご紹介",
       "link": "https://claude.com/blog/max-plan",
       "published": "2025-04-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644350+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991151+00:00",
       "translated": true
     },
     {
@@ -4053,7 +4053,7 @@
       "title_ja": "AnthropicがGuillaume PrincenをEMEAの責任者に任命し、地域全体で100以上の新しい役割を発表",
       "link": "https://www.anthropic.com/news/head-of-EMEA-new-roles",
       "published": "2025-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485061+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809849+00:00",
       "translated": true
     },
     {
@@ -4066,7 +4066,7 @@
       "title_ja": "Anthropic Education Report ：大学生がClaudeをどのように使用するか",
       "link": "https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude",
       "published": "2025-04-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485067+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809855+00:00",
       "translated": true
     },
     {
@@ -4079,7 +4079,7 @@
       "title_ja": "Anthropic初のデベロッパーカンファレンス「Code with Claude」のご紹介",
       "link": "https://www.anthropic.com/news/Introducing-code-with-claude",
       "published": "2025-04-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485073+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809861+00:00",
       "translated": true
     },
     {
@@ -4092,7 +4092,7 @@
       "title_ja": "Introducing Claude for Education",
       "link": "https://www.anthropic.com/news/introducing-claude-for-education",
       "published": "2025-04-02T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485081+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809869+00:00",
       "translated": true
     },
     {
@@ -4105,7 +4105,7 @@
       "title_ja": "Claude on Google Cloud’s Vertex AI: FedRAMP High and IL2 Authorized",
       "link": "https://claude.com/blog/claude-on-google-cloud-fedramp-high",
       "published": "2025-04-02T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644355+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991157+00:00",
       "translated": true
     },
     {
@@ -4118,7 +4118,7 @@
       "title_ja": "Anthropic Economic Index: Insights from Claude 3.7 Sonnet",
       "link": "https://www.anthropic.com/news/anthropic-economic-index-insights-from-claude-sonnet-3-7",
       "published": "2025-03-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485087+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809875+00:00",
       "translated": true
     },
     {
@@ -4131,7 +4131,7 @@
       "title_ja": "The \\\"think\\\" tool: Enabling Claude to stop and think in complex tool use situations",
       "link": "https://www.anthropic.com/engineering/claude-think-tool",
       "published": "2025-03-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.527002+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853081+00:00",
       "translated": true
     },
     {
@@ -4144,7 +4144,7 @@
       "title_ja": "Claude can now search the web",
       "link": "https://claude.com/blog/web-search",
       "published": "2025-03-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644361+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991163+00:00",
       "translated": true
     },
     {
@@ -4157,7 +4157,7 @@
       "title_ja": "Progress from our Frontier Red Team",
       "link": "https://www.anthropic.com/news/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team",
       "published": "2025-03-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485093+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809881+00:00",
       "translated": true
     },
     {
@@ -4170,7 +4170,7 @@
       "title_ja": "Anthropic’s response to Governor Newsom’s AI working group draft report",
       "link": "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report",
       "published": "2025-03-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485099+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809887+00:00",
       "translated": true
     },
     {
@@ -4183,7 +4183,7 @@
       "title_ja": "Token-saving updates on the Anthropic API",
       "link": "https://claude.com/blog/token-saving-updates",
       "published": "2025-03-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644367+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991169+00:00",
       "translated": true
     },
     {
@@ -4196,7 +4196,7 @@
       "title_ja": "Anthropic’s recommendations to OSTP for the U.S. AI action plan",
       "link": "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan",
       "published": "2025-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485105+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809893+00:00",
       "translated": true
     },
     {
@@ -4209,7 +4209,7 @@
       "title_ja": "Get to production faster with the upgraded Anthropic Console",
       "link": "https://claude.com/blog/upgraded-anthropic-console",
       "published": "2025-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644373+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991176+00:00",
       "translated": true
     },
     {
@@ -4222,7 +4222,7 @@
       "title_ja": "Anthropic raises Series E at $61.5B post-money valuation",
       "link": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
       "published": "2025-03-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485111+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809899+00:00",
       "translated": true
     },
     {
@@ -4235,7 +4235,7 @@
       "title_ja": "Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam",
       "link": "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam",
       "published": "2025-02-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485117+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809905+00:00",
       "translated": true
     },
     {
@@ -4248,7 +4248,7 @@
       "title_ja": "Introducing Anthropic's Transparency Hub",
       "link": "https://www.anthropic.com/news/introducing-anthropic-transparency-hub",
       "published": "2025-02-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485126+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809913+00:00",
       "translated": true
     },
     {
@@ -4261,7 +4261,7 @@
       "title_ja": "Claude and Alexa+",
       "link": "https://www.anthropic.com/news/claude-and-alexa-plus",
       "published": "2025-02-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485132+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809919+00:00",
       "translated": true
     },
     {
@@ -4274,7 +4274,7 @@
       "title_ja": "Claude 3.7 Sonnet and Claude Code",
       "link": "https://www.anthropic.com/news/claude-3-7-sonnet",
       "published": "2025-02-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485138+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809925+00:00",
       "translated": true
     },
     {
@@ -4287,7 +4287,7 @@
       "title_ja": "Anthropic signs MOU with UK Government to explore how AI can transform UK public services",
       "link": "https://www.anthropic.com/news/mou-uk-government",
       "published": "2025-02-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485146+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809933+00:00",
       "translated": true
     },
     {
@@ -4300,7 +4300,7 @@
       "title_ja": "Statement from Dario Amodei on the Paris AI Action Summit",
       "link": "https://www.anthropic.com/news/paris-ai-summit",
       "published": "2025-02-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485152+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809939+00:00",
       "translated": true
     },
     {
@@ -4313,7 +4313,7 @@
       "title_ja": "The Anthropic Economic Index",
       "link": "https://www.anthropic.com/news/the-anthropic-economic-index",
       "published": "2025-02-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485158+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809945+00:00",
       "translated": true
     },
     {
@@ -4326,7 +4326,7 @@
       "title_ja": "Lyft to bring Claude to more than 40 million riders and over 1 million drivers",
       "link": "https://www.anthropic.com/news/lyft-announcement",
       "published": "2025-02-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485164+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809951+00:00",
       "translated": true
     },
     {
@@ -4352,7 +4352,7 @@
       "title_ja": "Anthropic achieves ISO 42001 certification for responsible AI",
       "link": "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai",
       "published": "2025-01-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485169+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809957+00:00",
       "translated": true
     },
     {
@@ -4365,7 +4365,7 @@
       "title_ja": "Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet",
       "link": "https://www.anthropic.com/engineering/swe-bench-sonnet",
       "published": "2025-01-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.527008+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853087+00:00",
       "translated": true
     },
     {
@@ -4378,7 +4378,7 @@
       "title_ja": "Building effective agents",
       "link": "https://www.anthropic.com/engineering/building-effective-agents",
       "published": "2024-12-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.527014+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853093+00:00",
       "translated": true
     },
     {
@@ -4391,7 +4391,7 @@
       "title_ja": "Elections and AI in 2024: observations and learnings",
       "link": "https://www.anthropic.com/news/elections-ai-2024",
       "published": "2024-12-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485175+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809963+00:00",
       "translated": true
     },
     {
@@ -4404,7 +4404,7 @@
       "title_ja": "Claude 3.5 Haiku on AWS Trainium2 and model distillation in Amazon Bedrock",
       "link": "https://claude.com/blog/trainium2-and-distillation",
       "published": "2024-12-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644378+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991182+00:00",
       "translated": true
     },
     {
@@ -4417,7 +4417,7 @@
       "title_ja": "Introducing the Model Context Protocol",
       "link": "https://www.anthropic.com/news/model-context-protocol",
       "published": "2024-11-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485181+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809969+00:00",
       "translated": true
     },
     {
@@ -4430,7 +4430,7 @@
       "title_ja": "Powering the next generation of AI development with AWS",
       "link": "https://www.anthropic.com/news/anthropic-amazon-trainium",
       "published": "2024-11-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485187+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809975+00:00",
       "translated": true
     },
     {
@@ -4443,7 +4443,7 @@
       "title_ja": "The case for targeted regulation",
       "link": "https://www.anthropic.com/news/the-case-for-targeted-regulation",
       "published": "2024-10-31T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485193+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809981+00:00",
       "translated": true
     },
     {
@@ -4456,7 +4456,7 @@
       "title_ja": "Claude 3.5 Sonnet on GitHub Copilot",
       "link": "https://www.anthropic.com/news/github-copilot",
       "published": "2024-10-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485198+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809987+00:00",
       "translated": true
     },
     {
@@ -4469,7 +4469,7 @@
       "title_ja": "Introducing the analysis tool in Claude.ai",
       "link": "https://claude.com/blog/analysis-tool",
       "published": "2024-10-24T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644384+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991188+00:00",
       "translated": true
     },
     {
@@ -4482,7 +4482,7 @@
       "title_ja": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku",
       "link": "https://www.anthropic.com/news/3-5-models-and-computer-use",
       "published": "2024-10-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485206+00:00",
+      "fetched_at": "2026-05-30T13:05:20.809994+00:00",
       "translated": true
     },
     {
@@ -4495,7 +4495,7 @@
       "title_ja": "Developing a computer use model",
       "link": "https://www.anthropic.com/news/developing-computer-use",
       "published": "2024-10-22T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485212+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810000+00:00",
       "translated": true
     },
     {
@@ -4508,7 +4508,7 @@
       "title_ja": "Announcing our updated Responsible Scaling Policy",
       "link": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
       "published": "2024-10-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485218+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810006+00:00",
       "translated": true
     },
     {
@@ -4521,7 +4521,7 @@
       "title_ja": "Improve your prompts in the developer console",
       "link": "https://claude.com/blog/prompt-improver",
       "published": "2024-10-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644392+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991196+00:00",
       "translated": true
     },
     {
@@ -4534,7 +4534,7 @@
       "title_ja": "U.S. Elections Readiness",
       "link": "https://www.anthropic.com/news/us-elections-readiness",
       "published": "2024-10-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485224+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810012+00:00",
       "translated": true
     },
     {
@@ -4547,7 +4547,7 @@
       "title_ja": "Introducing the Message Batches API",
       "link": "https://claude.com/blog/message-batches-api",
       "published": "2024-10-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644398+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991202+00:00",
       "translated": true
     },
     {
@@ -4560,7 +4560,7 @@
       "title_ja": "Introducing Contextual Retrieval",
       "link": "https://www.anthropic.com/news/contextual-retrieval",
       "published": "2024-09-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485229+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810018+00:00",
       "translated": true
     },
     {
@@ -4573,7 +4573,7 @@
       "title_ja": "Introducing Contextual Retrieval",
       "link": "https://www.anthropic.com/engineering/contextual-retrieval",
       "published": "2024-09-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.527020+00:00",
+      "fetched_at": "2026-05-30T13:05:20.853100+00:00",
       "translated": true
     },
     {
@@ -4586,7 +4586,7 @@
       "title_ja": "Workspaces in the Anthropic API Console",
       "link": "https://claude.com/blog/workspaces",
       "published": "2024-09-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644404+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991208+00:00",
       "translated": true
     },
     {
@@ -4599,7 +4599,7 @@
       "title_ja": "Claude for Enterprise",
       "link": "https://claude.com/blog/claude-for-enterprise",
       "published": "2024-09-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644410+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991214+00:00",
       "translated": true
     },
     {
@@ -4612,7 +4612,7 @@
       "title_ja": "Salesforce teams up with Anthropic to enhance Einstein capabilities with Claude",
       "link": "https://www.anthropic.com/news/salesforce-partnership",
       "published": "2024-09-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485235+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810024+00:00",
       "translated": true
     },
     {
@@ -4625,7 +4625,7 @@
       "title_ja": "Artifacts are now generally available",
       "link": "https://claude.com/blog/artifacts",
       "published": "2024-08-27T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644418+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991222+00:00",
       "translated": true
     },
     {
@@ -4638,7 +4638,7 @@
       "title_ja": "Expanding our model safety bug bounty program",
       "link": "https://www.anthropic.com/news/model-safety-bug-bounty",
       "published": "2024-08-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485241+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810030+00:00",
       "translated": true
     },
     {
@@ -4651,7 +4651,7 @@
       "title_ja": "Claude is now available in Brazil",
       "link": "https://www.anthropic.com/news/claude-brazil",
       "published": "2024-08-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485246+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810036+00:00",
       "translated": true
     },
     {
@@ -4664,7 +4664,7 @@
       "title_ja": "Anthropic partners with Menlo Ventures to launch Anthology Fund",
       "link": "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund",
       "published": "2024-07-17T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485252+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810042+00:00",
       "translated": true
     },
     {
@@ -4677,7 +4677,7 @@
       "title_ja": "Claude Android app",
       "link": "https://claude.com/blog/android-app",
       "published": "2024-07-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644424+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991228+00:00",
       "translated": true
     },
     {
@@ -4690,7 +4690,7 @@
       "title_ja": "Fine-tune Claude 3 Haiku in Amazon Bedrock",
       "link": "https://www.anthropic.com/news/fine-tune-claude-3-haiku",
       "published": "2024-07-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485258+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810048+00:00",
       "translated": true
     },
     {
@@ -4703,7 +4703,7 @@
       "title_ja": "Fine-tune Claude 3 Haiku in Amazon Bedrock",
       "link": "https://claude.com/blog/fine-tune-claude-3-haiku",
       "published": "2024-07-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644429+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991234+00:00",
       "translated": true
     },
     {
@@ -4716,7 +4716,7 @@
       "title_ja": "Evaluate prompts in the developer console",
       "link": "https://claude.com/blog/evaluate-prompts",
       "published": "2024-07-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644435+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991241+00:00",
       "translated": true
     },
     {
@@ -4729,7 +4729,7 @@
       "title_ja": "A new initiative for developing third-party model evaluations",
       "link": "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations",
       "published": "2024-07-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485266+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810056+00:00",
       "translated": true
     },
     {
@@ -4742,7 +4742,7 @@
       "title_ja": "Expanding access to Claude for government",
       "link": "https://www.anthropic.com/news/expanding-access-to-claude-for-government",
       "published": "2024-06-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485272+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810062+00:00",
       "translated": true
     },
     {
@@ -4755,7 +4755,7 @@
       "title_ja": "Collaborate with Claude on Projects",
       "link": "https://www.anthropic.com/news/projects",
       "published": "2024-06-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485278+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810068+00:00",
       "translated": true
     },
     {
@@ -4768,7 +4768,7 @@
       "title_ja": "Claude 3.5 Sonnet",
       "link": "https://www.anthropic.com/news/claude-3-5-sonnet",
       "published": "2024-06-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485287+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810076+00:00",
       "translated": true
     },
     {
@@ -4781,7 +4781,7 @@
       "title_ja": "Challenges in red teaming AI systems",
       "link": "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems",
       "published": "2024-06-12T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485293+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810083+00:00",
       "translated": true
     },
     {
@@ -4794,7 +4794,7 @@
       "title_ja": "Testing and mitigating elections-related risks",
       "link": "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks",
       "published": "2024-06-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485299+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810089+00:00",
       "translated": true
     },
     {
@@ -4807,7 +4807,7 @@
       "title_ja": "Introducing Claude to Canada",
       "link": "https://www.anthropic.com/news/introducing-claude-to-canada",
       "published": "2024-06-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485305+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810097+00:00",
       "translated": true
     },
     {
@@ -4820,7 +4820,7 @@
       "title_ja": "Claude can now use tools",
       "link": "https://claude.com/blog/tool-use-ga",
       "published": "2024-05-30T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644441+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991247+00:00",
       "translated": true
     },
     {
@@ -4833,7 +4833,7 @@
       "title_ja": "Jay Kreps appointed to Anthropic's Board of Directors",
       "link": "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors",
       "published": "2024-05-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485311+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810103+00:00",
       "translated": true
     },
     {
@@ -4846,7 +4846,7 @@
       "title_ja": "Golden Gate Claude",
       "link": "https://www.anthropic.com/news/golden-gate-claude",
       "published": "2024-05-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485317+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810109+00:00",
       "translated": true
     },
     {
@@ -4859,7 +4859,7 @@
       "title_ja": "Krishna Rao joins Anthropic as Chief Financial Officer",
       "link": "https://www.anthropic.com/news/krishna-rao-joins-anthropic",
       "published": "2024-05-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485325+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810115+00:00",
       "translated": true
     },
     {
@@ -4872,7 +4872,7 @@
       "title_ja": "Reflections on our Responsible Scaling Policy",
       "link": "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy",
       "published": "2024-05-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485333+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810123+00:00",
       "translated": true
     },
     {
@@ -4885,7 +4885,7 @@
       "title_ja": "Generate better prompts in the developer console",
       "link": "https://claude.com/blog/prompt-generator",
       "published": "2024-05-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644447+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991253+00:00",
       "translated": true
     },
     {
@@ -4898,7 +4898,7 @@
       "title_ja": "Mike Krieger joins Anthropic as Chief Product Officer",
       "link": "https://www.anthropic.com/news/mike-krieger-joins-anthropic",
       "published": "2024-05-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485339+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810129+00:00",
       "translated": true
     },
     {
@@ -4911,7 +4911,7 @@
       "title_ja": "Claude is now available in Europe",
       "link": "https://www.anthropic.com/news/claude-europe",
       "published": "2024-05-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485345+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810135+00:00",
       "translated": true
     },
     {
@@ -4924,7 +4924,7 @@
       "title_ja": "Updating our Usage Policy",
       "link": "https://www.anthropic.com/news/updating-our-usage-policy",
       "published": "2024-05-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485351+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810141+00:00",
       "translated": true
     },
     {
@@ -4937,7 +4937,7 @@
       "title_ja": "Economic Research",
       "link": "https://www.anthropic.com/research/team/economic-research",
       "published": "2024-05-10T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562579+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892508+00:00",
       "translated": true
     },
     {
@@ -4950,7 +4950,7 @@
       "title_ja": "Introducing the Claude Team plan and iOS app",
       "link": "https://claude.com/blog/team-plan-and-ios",
       "published": "2024-05-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644455+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991261+00:00",
       "translated": true
     },
     {
@@ -4963,7 +4963,7 @@
       "title_ja": "Aligning on child safety principles",
       "link": "https://www.anthropic.com/news/child-safety-principles",
       "published": "2024-04-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485357+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810147+00:00",
       "translated": true
     },
     {
@@ -4976,7 +4976,7 @@
       "title_ja": "Third-party testing as a key ingredient of AI policy",
       "link": "https://www.anthropic.com/news/third-party-testing",
       "published": "2024-03-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485362+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810152+00:00",
       "translated": true
     },
     {
@@ -4989,7 +4989,7 @@
       "title_ja": "Anthropic, AWS, and Accenture team up to build trusted solutions for enterprises",
       "link": "https://www.anthropic.com/news/accenture-aws-anthropic",
       "published": "2024-03-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485368+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810159+00:00",
       "translated": true
     },
     {
@@ -5002,7 +5002,7 @@
       "title_ja": "Claude 3 models on Vertex AI",
       "link": "https://www.anthropic.com/news/google-vertex-general-availability",
       "published": "2024-03-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485373+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810164+00:00",
       "translated": true
     },
     {
@@ -5015,7 +5015,7 @@
       "title_ja": "Claude 3 Haiku: our fastest model yet",
       "link": "https://www.anthropic.com/news/claude-3-haiku",
       "published": "2024-03-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485379+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810170+00:00",
       "translated": true
     },
     {
@@ -5028,7 +5028,7 @@
       "title_ja": "Introducing the next generation of Claude",
       "link": "https://www.anthropic.com/news/claude-3-family",
       "published": "2024-03-04T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485387+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810178+00:00",
       "translated": true
     },
     {
@@ -5041,7 +5041,7 @@
       "title_ja": "Prompt engineering for business performance",
       "link": "https://www.anthropic.com/news/prompt-engineering-for-business-performance",
       "published": "2024-02-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485396+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810190+00:00",
       "translated": true
     },
     {
@@ -5054,7 +5054,7 @@
       "title_ja": "Preparing for global elections in 2024",
       "link": "https://www.anthropic.com/news/preparing-for-global-elections-in-2024",
       "published": "2024-02-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485401+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810196+00:00",
       "translated": true
     },
     {
@@ -5067,7 +5067,7 @@
       "title_ja": "Expanded legal protections and improvements to our API",
       "link": "https://www.anthropic.com/news/expanded-legal-protections-api-improvements",
       "published": "2023-12-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485407+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810202+00:00",
       "translated": true
     },
     {
@@ -5080,7 +5080,7 @@
       "title_ja": "Long context prompting for Claude 2.1",
       "link": "https://claude.com/blog/claude-2-1-prompting",
       "published": "2023-12-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644461+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991267+00:00",
       "translated": true
     },
     {
@@ -5093,7 +5093,7 @@
       "title_ja": "Introducing Claude 2.1",
       "link": "https://www.anthropic.com/news/claude-2-1",
       "published": "2023-11-21T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485413+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810208+00:00",
       "translated": true
     },
     {
@@ -5106,7 +5106,7 @@
       "title_ja": "Thoughts on the US Executive Order, G7 Code of Conduct, and Bletchley Park Summit",
       "link": "https://www.anthropic.com/news/policy-recap-q4-2023",
       "published": "2023-11-05T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485419+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810214+00:00",
       "translated": true
     },
     {
@@ -5119,7 +5119,7 @@
       "title_ja": "Dario Amodei’s prepared remarks from the AI Safety Summit on Anthropic’s Responsible Scaling Policy",
       "link": "https://www.anthropic.com/news/uk-ai-safety-summit",
       "published": "2023-11-01T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485425+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810220+00:00",
       "translated": true
     },
     {
@@ -5132,7 +5132,7 @@
       "title_ja": "Societal Impacts",
       "link": "https://www.anthropic.com/research/team/societal-impacts",
       "published": "2023-10-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562562+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892490+00:00",
       "translated": true
     },
     {
@@ -5145,7 +5145,7 @@
       "title_ja": "Alignment",
       "link": "https://www.anthropic.com/research/team/alignment",
       "published": "2023-10-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562574+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892496+00:00",
       "translated": true
     },
     {
@@ -5158,7 +5158,7 @@
       "title_ja": "Claude on Amazon Bedrock now available to every AWS customer",
       "link": "https://claude.com/blog/amazon-bedrock-general-availability",
       "published": "2023-09-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644467+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991273+00:00",
       "translated": true
     },
     {
@@ -5171,7 +5171,7 @@
       "title_ja": "Expanding access to safer AI with Amazon",
       "link": "https://www.anthropic.com/news/anthropic-amazon",
       "published": "2023-09-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485431+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810226+00:00",
       "translated": true
     },
     {
@@ -5184,7 +5184,7 @@
       "title_ja": "Prompt engineering for Claude's long context window",
       "link": "https://www.anthropic.com/news/prompting-long-context",
       "published": "2023-09-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485436+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810232+00:00",
       "translated": true
     },
     {
@@ -5197,7 +5197,7 @@
       "title_ja": "The Long-Term Benefit Trust",
       "link": "https://www.anthropic.com/news/the-long-term-benefit-trust",
       "published": "2023-09-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485445+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810239+00:00",
       "translated": true
     },
     {
@@ -5210,7 +5210,7 @@
       "title_ja": "Anthropic's Responsible Scaling Policy",
       "link": "https://www.anthropic.com/news/anthropics-responsible-scaling-policy",
       "published": "2023-09-19T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485450+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810245+00:00",
       "translated": true
     },
     {
@@ -5223,7 +5223,7 @@
       "title_ja": "Anthropic partners with BCG",
       "link": "https://www.anthropic.com/news/anthropic-bcg",
       "published": "2023-09-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485458+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810253+00:00",
       "translated": true
     },
     {
@@ -5236,7 +5236,7 @@
       "title_ja": "Introducing Claude Pro",
       "link": "https://www.anthropic.com/news/claude-pro",
       "published": "2023-09-07T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485465+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810259+00:00",
       "translated": true
     },
     {
@@ -5249,7 +5249,7 @@
       "title_ja": "Claude 2 on Amazon Bedrock",
       "link": "https://claude.com/blog/claude-2-amazon-bedrock",
       "published": "2023-08-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.644472+00:00",
+      "fetched_at": "2026-05-30T13:05:20.991279+00:00",
       "translated": true
     },
     {
@@ -5262,7 +5262,7 @@
       "title_ja": "SKT Partnership Announcement",
       "link": "https://www.anthropic.com/news/skt-partnership-announcement",
       "published": "2023-08-15T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485471+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810265+00:00",
       "translated": true
     },
     {
@@ -5275,7 +5275,7 @@
       "title_ja": "Releasing Claude Instant 1.2",
       "link": "https://www.anthropic.com/news/releasing-claude-instant-1-2",
       "published": "2023-08-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485476+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810271+00:00",
       "translated": true
     },
     {
@@ -5288,7 +5288,7 @@
       "title_ja": "Frontier Threats Red Teaming for AI Safety",
       "link": "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety",
       "published": "2023-07-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485482+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810277+00:00",
       "translated": true
     },
     {
@@ -5301,7 +5301,7 @@
       "title_ja": "Frontier Model Security",
       "link": "https://www.anthropic.com/news/frontier-model-security",
       "published": "2023-07-25T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485488+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810283+00:00",
       "translated": true
     },
     {
@@ -5314,7 +5314,7 @@
       "title_ja": "Claude 2",
       "link": "https://www.anthropic.com/news/claude-2",
       "published": "2023-07-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485494+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810289+00:00",
       "translated": true
     },
     {
@@ -5327,7 +5327,7 @@
       "title_ja": "Charting a Path to AI Accountability",
       "link": "https://www.anthropic.com/news/charting-a-path-to-ai-accountability",
       "published": "2023-06-13T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485502+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810295+00:00",
       "translated": true
     },
     {
@@ -5340,7 +5340,7 @@
       "title_ja": "Interpretability",
       "link": "https://www.anthropic.com/research/team/interpretability",
       "published": "2023-06-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.562568+00:00",
+      "fetched_at": "2026-05-30T13:05:20.892502+00:00",
       "translated": true
     },
     {
@@ -5353,7 +5353,7 @@
       "title_ja": "Anthropic Raises $450 Million in Series C Funding to Scale Reliable AI Products",
       "link": "https://www.anthropic.com/news/anthropic-series-c",
       "published": "2023-05-23T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485508+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810301+00:00",
       "translated": true
     },
     {
@@ -5366,7 +5366,7 @@
       "title_ja": "Zoom Partnership and Investment in Anthropic",
       "link": "https://www.anthropic.com/news/zoom-partnership-and-investment",
       "published": "2023-05-16T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485514+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810307+00:00",
       "translated": true
     },
     {
@@ -5379,7 +5379,7 @@
       "title_ja": "Introducing 100K Context Windows",
       "link": "https://www.anthropic.com/news/100k-context-windows",
       "published": "2023-05-11T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485522+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810317+00:00",
       "translated": true
     },
     {
@@ -5392,7 +5392,7 @@
       "title_ja": "Claude’s Constitution",
       "link": "https://www.anthropic.com/news/claudes-constitution",
       "published": "2023-05-09T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485528+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810323+00:00",
       "translated": true
     },
     {
@@ -5405,7 +5405,7 @@
       "title_ja": "Partnering with Scale to Bring Generative AI to Enterprises",
       "link": "https://www.anthropic.com/news/partnering-with-scale",
       "published": "2023-04-26T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485534+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810329+00:00",
       "translated": true
     },
     {
@@ -5418,7 +5418,7 @@
       "title_ja": "An AI Policy Tool for Today: Ambitiously Invest in NIST",
       "link": "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist",
       "published": "2023-04-20T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485539+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810335+00:00",
       "translated": true
     },
     {
@@ -5431,7 +5431,7 @@
       "title_ja": "Introducing Claude",
       "link": "https://www.anthropic.com/news/introducing-claude",
       "published": "2023-03-14T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485545+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810341+00:00",
       "translated": true
     },
     {
@@ -5444,7 +5444,7 @@
       "title_ja": "Core Views on AI Safety: When, Why, What, and How",
       "link": "https://www.anthropic.com/news/core-views-on-ai-safety",
       "published": "2023-03-08T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485551+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810347+00:00",
       "translated": true
     },
     {
@@ -5457,7 +5457,7 @@
       "title_ja": "PwCは、クライアントのためにテクノロジーを構築し、取引を実行し、エンタープライズ機能を再発明するためにClaudeを展開しています",
       "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
       "published": "2023-03-06T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.484236+00:00",
+      "fetched_at": "2026-05-30T13:05:20.808951+00:00",
       "translated": true
     },
     {
@@ -5470,7 +5470,7 @@
       "title_ja": "Anthropic Partners with Google Cloud",
       "link": "https://www.anthropic.com/news/anthropic-partners-with-google-cloud",
       "published": "2023-02-03T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485556+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810353+00:00",
       "translated": true
     },
     {
@@ -5483,7 +5483,7 @@
       "title_ja": "Anthropic Raises Series B to build steerable, interpretable, robust AI systems",
       "link": "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai",
       "published": "2022-04-29T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485562+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810359+00:00",
       "translated": true
     },
     {
@@ -5496,7 +5496,7 @@
       "title_ja": "Anthropic raises $124 million to build more reliable, general AI systems",
       "link": "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems",
       "published": "2021-05-28T00:00:00+00:00",
-      "fetched_at": "2026-05-30T08:17:24.485568+00:00",
+      "fetched_at": "2026-05-30T13:05:20.810365+00:00",
       "translated": true
     },
     {
@@ -5509,7 +5509,7 @@
       "title_ja": "v2.1.114",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21114",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758008+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153310+00:00",
       "translated": true
     },
     {
@@ -5522,7 +5522,7 @@
       "title_ja": "v2.1.113",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21113",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758016+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153318+00:00",
       "translated": true
     },
     {
@@ -5535,7 +5535,7 @@
       "title_ja": "v2.1.112",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21112",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758023+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153324+00:00",
       "translated": true
     },
     {
@@ -5548,7 +5548,7 @@
       "title_ja": "v2.1.111",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21111",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758029+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153330+00:00",
       "translated": true
     },
     {
@@ -5561,7 +5561,7 @@
       "title_ja": "v2.1.110",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21110",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758035+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153336+00:00",
       "translated": true
     },
     {
@@ -5574,7 +5574,7 @@
       "title_ja": "v2.1.109",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21109",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758041+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153342+00:00",
       "translated": true
     },
     {
@@ -5587,7 +5587,7 @@
       "title_ja": "v2.1.108",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21108",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758047+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153347+00:00",
       "translated": true
     },
     {
@@ -5600,7 +5600,7 @@
       "title_ja": "v2.1.107",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21107",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758053+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153353+00:00",
       "translated": true
     },
     {
@@ -5613,7 +5613,7 @@
       "title_ja": "v2.1.105",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21105",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758059+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153359+00:00",
       "translated": true
     },
     {
@@ -5626,7 +5626,7 @@
       "title_ja": "v2.1.101",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#21101",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758064+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153365+00:00",
       "translated": true
     },
     {
@@ -5639,7 +5639,7 @@
       "title_ja": "v2.1.98",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2198",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758070+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153371+00:00",
       "translated": true
     },
     {
@@ -5652,7 +5652,7 @@
       "title_ja": "v2.1.97",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2197",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758076+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153377+00:00",
       "translated": true
     },
     {
@@ -5665,7 +5665,7 @@
       "title_ja": "v2.1.96",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2196",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758081+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153383+00:00",
       "translated": true
     },
     {
@@ -5678,7 +5678,7 @@
       "title_ja": "v2.1.94",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2194",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758087+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153389+00:00",
       "translated": true
     },
     {
@@ -5691,7 +5691,7 @@
       "title_ja": "v2.1.92",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2192",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758092+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153394+00:00",
       "translated": true
     },
     {
@@ -5704,7 +5704,7 @@
       "title_ja": "v2.1.91",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2191",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758097+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153400+00:00",
       "translated": true
     },
     {
@@ -5717,7 +5717,7 @@
       "title_ja": "v2.1.90",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2190",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758103+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153406+00:00",
       "translated": true
     },
     {
@@ -5730,7 +5730,7 @@
       "title_ja": "v2.1.89",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2189",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758109+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153413+00:00",
       "translated": true
     },
     {
@@ -5743,7 +5743,7 @@
       "title_ja": "v2.1.87",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2187",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758114+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153420+00:00",
       "translated": true
     },
     {
@@ -5756,7 +5756,7 @@
       "title_ja": "v2.1.86",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2186",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758119+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153428+00:00",
       "translated": true
     },
     {
@@ -5769,7 +5769,7 @@
       "title_ja": "v2.1.85",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2185",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758125+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153434+00:00",
       "translated": true
     },
     {
@@ -5782,7 +5782,7 @@
       "title_ja": "v2.1.84",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2184",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758130+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153440+00:00",
       "translated": true
     },
     {
@@ -5795,7 +5795,7 @@
       "title_ja": "v2.1.83",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2183",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758136+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153446+00:00",
       "translated": true
     },
     {
@@ -5808,7 +5808,7 @@
       "title_ja": "v2.1.81",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2181",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758142+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153451+00:00",
       "translated": true
     },
     {
@@ -5821,7 +5821,7 @@
       "title_ja": "v2.1.80",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2180",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758147+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153457+00:00",
       "translated": true
     },
     {
@@ -5834,7 +5834,7 @@
       "title_ja": "v2.1.79",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2179",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758152+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153463+00:00",
       "translated": true
     },
     {
@@ -5847,7 +5847,7 @@
       "title_ja": "v2.1.78",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2178",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758158+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153468+00:00",
       "translated": true
     },
     {
@@ -5860,7 +5860,7 @@
       "title_ja": "v2.1.77",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2177",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758163+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153474+00:00",
       "translated": true
     },
     {
@@ -5873,7 +5873,7 @@
       "title_ja": "v2.1.76",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2176",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758169+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153480+00:00",
       "translated": true
     },
     {
@@ -5886,7 +5886,7 @@
       "title_ja": "v2.1.75",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2175",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758174+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153485+00:00",
       "translated": true
     },
     {
@@ -5899,7 +5899,7 @@
       "title_ja": "v2.1.74",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2174",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758179+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153491+00:00",
       "translated": true
     },
     {
@@ -5912,7 +5912,7 @@
       "title_ja": "v2.1.73",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2173",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758184+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153497+00:00",
       "translated": true
     },
     {
@@ -5925,7 +5925,7 @@
       "title_ja": "v2.1.72",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2172",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758190+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153503+00:00",
       "translated": true
     },
     {
@@ -5938,7 +5938,7 @@
       "title_ja": "v2.1.71",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2171",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758195+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153508+00:00",
       "translated": true
     },
     {
@@ -5951,7 +5951,7 @@
       "title_ja": "v2.1.70",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2170",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758200+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153514+00:00",
       "translated": true
     },
     {
@@ -5964,7 +5964,7 @@
       "title_ja": "v2.1.69",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2169",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758206+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153539+00:00",
       "translated": true
     },
     {
@@ -5977,7 +5977,7 @@
       "title_ja": "v2.1.68",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2168",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758216+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153550+00:00",
       "translated": true
     },
     {
@@ -5990,7 +5990,7 @@
       "title_ja": "v2.1.66",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2166",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758222+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153556+00:00",
       "translated": true
     },
     {
@@ -6003,7 +6003,7 @@
       "title_ja": "v2.1.63",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2163",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758227+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153562+00:00",
       "translated": true
     },
     {
@@ -6016,7 +6016,7 @@
       "title_ja": "v2.1.62",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2162",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758233+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153568+00:00",
       "translated": true
     },
     {
@@ -6029,7 +6029,7 @@
       "title_ja": "v2.1.61",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2161",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758238+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153574+00:00",
       "translated": true
     },
     {
@@ -6042,7 +6042,7 @@
       "title_ja": "v2.1.59",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2159",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758243+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153580+00:00",
       "translated": true
     },
     {
@@ -6055,7 +6055,7 @@
       "title_ja": "v2.1.58",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2158",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758249+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153585+00:00",
       "translated": true
     },
     {
@@ -6068,7 +6068,7 @@
       "title_ja": "v2.1.56",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2156",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758254+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153591+00:00",
       "translated": true
     },
     {
@@ -6081,7 +6081,7 @@
       "title_ja": "v2.1.55",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2155",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758259+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153597+00:00",
       "translated": true
     },
     {
@@ -6094,7 +6094,7 @@
       "title_ja": "v2.1.53",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2153",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758265+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153603+00:00",
       "translated": true
     },
     {
@@ -6107,7 +6107,7 @@
       "title_ja": "v2.1.52",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2152",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758273+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153611+00:00",
       "translated": true
     },
     {
@@ -6120,7 +6120,7 @@
       "title_ja": "v2.1.51",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2151",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758278+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153617+00:00",
       "translated": true
     },
     {
@@ -6133,7 +6133,7 @@
       "title_ja": "v2.1.50",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2150",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758284+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153622+00:00",
       "translated": true
     },
     {
@@ -6146,11 +6146,11 @@
       "title_ja": "v2.1.49",
       "link": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md#2149",
       "published": null,
-      "fetched_at": "2026-05-30T08:17:24.758289+00:00",
+      "fetched_at": "2026-05-30T13:05:21.153628+00:00",
       "translated": true
     }
   ],
-  "updated_at": "2026-05-30T08:17:24.758950+00:00",
+  "updated_at": "2026-05-30T13:05:21.154201+00:00",
   "source_count": 5,
   "item_count": 473
 }
